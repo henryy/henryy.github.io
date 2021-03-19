@@ -1,14 +1,9 @@
----
-permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+
+Currently, I am an assistant professor at [Institute for Network Sciences and Cyberspace](http://www.insc.tsinghua.edu.cn/) 
+,[Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China. Before joining Tsinghua University, I worked as a research engineer of the Laboratory of Information, Networking and Communication Sciences ([LINCS Lab](https://www.lincs.fr/)),  and co-affiliated with [Telecom Paris](https://www.telecom-paris.fr/en/home) in Paris, France from 2020.1 to 2021.2. I used to work as a PostDoc researcher at the Department of Network and Computer Science Department (INFRES), Telecom Paris in Paris, France from 2017.11 to 2019.12. Prior to that, I received my Ph.D. in Telecom Paris (previously known as "Telecom-ParisTech" before 2019) in France at 2017. I obtained my M.Eng degree from [Insitute Eurecom](https://www.eurecom.fr/en) in France, and a Bachelor's degree in Communication Engineering at [Beijing University of Posts and Telecommunications (BUPT)](https://english.bupt.edu.cn/) in China. 
+
+
 
 A data-driven personal website
 ======

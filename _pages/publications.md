@@ -21,7 +21,7 @@ author_profile: true
 
 * **Han Qiu**, Qinkai Zheng, Mounira Msahli, Gerard Memmi, Meikang Qiu, and Jialiang Lu. "Topological Graph Convolutional Network-Based Urban Traffic Flow and Density Prediction." IEEE Transactions on Intelligent Transportation Systems (2020). [[Paper]](https://arxiv.org/pdf/2012.07006)[[Code]](https://github.com/)
 
-* **Yi Zeng**, Han Qiu\*, Gerard Memmi, and Meikang Qiu. "A Data Augmentation-based Defense Method Against Adversarial Attacks in Neural Networks." In ICA3PP 2020 (best paper award).
+* Yi Zeng, **Han Qiu**\*, Gerard Memmi, and Meikang Qiu. "A Data Augmentation-based Defense Method Against Adversarial Attacks in Neural Networks." In ICA3PP 2020 (best paper award).
 
 * **Han Qiu**, Qinkai Zheng, Tianwei Zhang, Meikang Qiu, Gerard Memmi, and Jialiang Lu. "Towards secure and efficient deep learning inference in dependable IoT systems." IEEE Internet of Things Journal (2020). [[Paper]](https://arxiv.org/pdf/2012.07006)[[Code]](https://github.com/)
 

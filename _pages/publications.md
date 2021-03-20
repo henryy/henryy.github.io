@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-A complete list can be found in my [Google Scholar] (https://scholar.google.fr/citations?hl=en&user=6JWNv6gAAAAJ).
+A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/citations?hl=en&user=6JWNv6gAAAAJ).
 
 \* indicates corresponding author 
 

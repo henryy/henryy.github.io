@@ -1,4 +1,10 @@
-\* indicates equal contribution 
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
 ### The Security of Inference Process
 * Jiawang Bai\*, Bin Chen\*, **Yiming Li**\*, Dongxian Wu, Weiwei Guo, Shu-Tao Xia, Enhui Yang. Targeted Attack for Deep Hashing based Retrieval. ***ECCV*** (<font color='red'>oral-online, TOP 2%</font>), 2020. [[arXiv]](https://arxiv.org/abs/2004.07955)[[Code]](https://github.com/jiawangbai/DHTA-master)
 

@@ -35,7 +35,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * **Han Qiu**, Meikang Qiu, Meiqin Liu, and Gerard Memmi. "Secure health data sharing for medical cyber-physical systems for the healthcare 4.0." IEEE journal of biomedical and health informatics (2020).
 
-* **Han Qiu**, Meikang Qiu, Meiqin Liu, and Zhong Ming. "Lightweight selective encryption for social data protection based on EBCOT coding." IEEE Transactions on Computational Social Systems (2019).
+* **Han Qiu**, Meikang Qiu, Meiqin Liu, and Zhong Ming. "Lightweight selective encryption for social data protection based on EBCOT coding." IEEE Transactions on Computational Social Systems (2020).
 
 ### 2019
 

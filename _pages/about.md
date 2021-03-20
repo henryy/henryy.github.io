@@ -26,8 +26,8 @@ News
 * [2020/09] Served on the PC Chair of the Springer KSEM 2021
 * [2020/08] One paper titled "Topological Graph Convolutional Network-Based Urban Traffic Flow and Density Prediction" accepted by IEEE Transactions on Intelligent Transportation Systems
 * [2020/06] Served on the PC of the IEEE INFOCOM 2021
-* [2020/06] One paper titled "Towards Secure and Efficient Deep Learning Inference in Dependable IoT Systems" is accepted by IEEE Internet of Things Journal (Paper) 
-* [2020/05] One paper titled "Deep Residual Learning based Enhanced JPEG Compression in the Internet of Things" is accepted by IEEE Transactions on Industrial Informatics (Paper) (Code)
+* [2020/06] One paper titled "Towards Secure and Efficient Deep Learning Inference in Dependable IoT Systems" is accepted by IEEE Internet of Things Journal
+* [2020/05] One paper titled "Deep Residual Learning based Enhanced JPEG Compression in the Internet of Things" is accepted by IEEE Transactions on Industrial Informatics
 
 Research Interests
 ------

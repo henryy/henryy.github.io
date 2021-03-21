@@ -8,25 +8,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Conference Organization
 ======
-* B.Eng. in Degree on Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China, 2011
-* M.S. in Network and Security, Institute Eurecom (Telecom-ParisTech), Sophia Antipolis, France, 2013
-* Ph.D in Computer Networks, Telecom-ParisTech, Paris, France, 2017
+* PC Co-Chair, Springer, International Conference on Knowledge Science, Engineering and Management (KSEM) 2021
+* Program Chair, IEEE, International Symposium on Parallel and Distributed Processing with Applications (ISPA) 2021 
 
-Working experience
+Technical Program Committee
 ======
-* Assistant Professor at Tsinghua University, Beijing, China, 2021/03 – presnet 
-  * Working on Secure and Intelligent Networking Systems.
+* IEEE, International Conference on Computer Communications (INFOCOM) 2021 
+* Springer, International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) 2020 
+* IEEE, Symposium on Computers and Communications (ISCC) 2020 
+* IEEE, International Symposium on Edge Computing Security and Blockchain (EdgeBlock) 2020 
+* IEEE, Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020 
+* ACM, International Symposium on Blockchain and Secure Critical Infrastructure (BSCI) 2019, 2020 
+* IEEE, International Conference on Big Data Security on Cloud (BigDataSecurity) 2019,2020 
+* IEEE, International Conference on Cyber Security and Cloud Computing (CSCloud) 2019,2020 
+* IEEE, International Conference on Embedded and Ubiquitous Computing (EUC) 2019 Springer, 
+* International Conference on Smart Computing and Communication (SmartCom) 2018, 2019, 2020 
+* IEEE, International Conference on Smart Cloud (SmartCloud) 2019, 2020
 
-* Research Engineer at LINCS Lab, Paris, France, 2020/01 – 2021/02 
-  * Working on Secure Intelligence Systems.
-
-* PostDoc Researcher at INFRES, Telecom Paris, France, 2017/11 – 2019/12 
-  * Working on Secure Systems for Vehicle-to-Everything (V2X) Communication, supervised by Prof. Gerard Memmi
-
-* Internship at Orange Lab, Paris, France, 2013/03 – 2013/08
-  * Working on Information-Centric Network (ICN) Experimentaton and Measurement, supervised by Dr. Luca Muscariello
-
-* Summer intern at Insitute Eurecom, Sophia Antipolis, France, 2012/07 - 2012/09
-  * Working on Static Analysis and Reverse Engineering on Baseband Firmware on Smartphones, supervised by Prof. Aurelien Francillon
+Journal Reviewer
+======
+* IEEE Communication Magazine 
+* IEEE Transactions on Computers 
+* IEEE Transactions on Cloud Computing 
+* IEEE Transactions on Industrial Informatics 
+* IEEE Transactions on Network and Service Management 
+* IEEE Transactions on Vehicular Technology 
+* IEEE Transactions on Systems, Man and Cybernetics: Systems 
+* IEEE Internet of Things Journal 
+* Information Sciences 
+* Future Generations of Computer Systems 
+* Applied Soft Computing 
+* Journal of Parallel and Distributed Computing 
+* Journal of Signal Processing Systems

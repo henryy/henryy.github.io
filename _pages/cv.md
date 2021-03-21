@@ -10,49 +10,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Eng. in Degree on Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China, 2011
+* M.S. in Network and Security, Institute Eurecom (Telecom-ParisTech), Sophia Antipolis, France, 2013
+* Ph.D in Computer Networks, Telecom-ParisTech, Paris, France, 2017
 
-Work experience
+Working experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Assistant Professor at Tsinghua University, Beijing, China, 2021/03 – presnet 
+  * Working on Secure and Intelligent Networking Systems.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Engineer at LINCS Lab, Paris, France, 2020/01 – 2021/02 
+  * Working on Secure Intelligence Systems.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* PostDoc Researcher at INFRES, Telecom Paris, France, 2017/11 – 2019/12 
+  * Working on Secure Systems for Vehicle-to-Everything (V2X) Communication, supervised by Prof. Gerard Memmi
+
+* Internship at Orange Lab, Paris, France, 2013/03 – 2013/08
+  * Working on Information-Centric Network (ICN) Experimentaton and Measurement, supervised by Dr. Luca Muscariello
+
+* Summer intern at Insitute Eurecom, Sophia Antipolis, France, 2012/07 - 2012/09
+  * Working on Static Analysis and Reverse Engineering on Baseband Firmware on Smartphones, supervised by Prof. Aurelien Francillon

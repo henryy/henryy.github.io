@@ -10,7 +10,7 @@ main:
     url: /service/    
 
   - title: "Students"
-    url: /teaching/    
+    url: /students/    
     
   - title: "CFP"
-    url: /portfolio/
+    url: /CFP/

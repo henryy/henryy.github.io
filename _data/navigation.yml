@@ -2,8 +2,11 @@
 main:
   - title: "Publications"
     url: /publications/
+    
+  - title: "Experience"
+    url: /cv/
 
-  - title: "Talks"
+  - title: "Services"
     url: /talks/    
 
   - title: "Teaching"
@@ -15,8 +18,7 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
   - title: "Guide"
     url: /markdown/

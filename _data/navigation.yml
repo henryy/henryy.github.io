@@ -9,16 +9,8 @@ main:
   - title: "Services"
     url: /talks/    
 
-  - title: "Teaching"
+  - title: "Students"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "CFP"
     url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-
-    
-  - title: "Guide"
-    url: /markdown/

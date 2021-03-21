@@ -39,7 +39,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2019
 
-* **Han Qiu**, Qinkai Zheng, Meikang Qiu, and Gerard Memmi. "DC Coefficients Recovery from AC Coefficients in the JPEG Compression Scenario." In Springer SmartCom 2019 (best paper award).
+* **Han Qiu**, Qinkai Zheng, Meikang Qiu, and Gerard Memmi. "DC Coefficients Recovery from AC Coefficients in the JPEG Compression Scenario." Springer SmartCom 2019 (best paper award).
 
 * **Han Qiu**, Katarzyna Kapusta, Zhihui Lu, Meikang Qiu, and Gerard Memmi. "All-Or-Nothing data protection for ubiquitous communication: Challenges and perspectives." Information Sciences (2019).
 
@@ -53,21 +53,21 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2018
 
-* **Han Qiu**, Meikang Qiu, Gerard Memmi, Zhong Ming, and Meiqin Liu. "A dynamic scalable blockchain based communication architecture for IoT." In Springer SmartBlock 2018.
+* **Han Qiu**, Meikang Qiu, Gerard Memmi, Zhong Ming, and Meiqin Liu. "A dynamic scalable blockchain based communication architecture for IoT." Springer SmartBlock 2018.
 
-* **Han Qiu**, Nathalie Enfrin, and Gerard Memmi. "A case study for practical issues of DCT based bitmap selective encryption methods." In IEEE SSIC, 2018.
+* **Han Qiu**, Nathalie Enfrin, and Gerard Memmi. "A case study for practical issues of DCT based bitmap selective encryption methods." IEEE SSIC, 2018.
 
 ### 2017
 
-* **Han Qiu**, Gerard Memmi, and Hassan Noura. "An efficient secure storage scheme based on information fragmentation." In IEEE CSCloud 2017.
+* **Han Qiu**, Gerard Memmi, and Hassan Noura. "An efficient secure storage scheme based on information fragmentation." IEEE CSCloud 2017.
 
 ### 2015
 
-* Gerard Memmi, Katarzyna Kapusta, and **Han Qiu**. "Data protection: Combining fragmentation, encryption, and dispersion." In IEEE SSIC 2015.
+* Gerard Memmi, Katarzyna Kapusta, and **Han Qiu**. "Data protection: Combining fragmentation, encryption, and dispersion." IEEE SSIC 2015.
 
 * **Han Qiu**, and Gerard Memmi. "Fast selective encryption methods for bitmap images." International Journal of Multimedia Data Engineering and Management (2015).
 
 ### 2014
 
-* **Han Qiu**, and Gerard Memmi. "Fast selective encryption method for bitmaps based on GPU acceleration." In IEEE ISM 2014.
+* **Han Qiu**, and Gerard Memmi. "Fast selective encryption method for bitmaps based on GPU acceleration." IEEE ISM 2014.
 

@@ -29,8 +29,6 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * **Han Qiu**, Qinkai Zheng, Gerard Memmi, Jialiang Lu, Meikang Qiu, and Bhavani Thuraisingham. "Deep Residual Learning-Based Enhanced JPEG Compression in the Internet of Things." IEEE Transactions on Industrial Informatics (2020). 
 
-* **Han Qiu**, Qinkai Zheng, Gerard Memmi, Jialiang Lu, Meikang Qiu, and Bhavani Thuraisingham. "Deep Residual Learning-Based Enhanced JPEG Compression in the Internet of Things." IEEE Transactions on Industrial Informatics (2020). 
-
 * **Han Qiu**, Meikang Qiu, and Zhihui Lu. "Selective encryption on ECG data in body sensor network based on supervised machine learning." Information Fusion (2020).
 
 * **Han Qiu**, Meikang Qiu, Meiqin Liu, and Gerard Memmi. "Secure health data sharing for medical cyber-physical systems for the healthcare 4.0." IEEE journal of biomedical and health informatics (2020).

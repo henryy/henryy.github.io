@@ -34,6 +34,7 @@ Journal Reviewer
 * IEEE Transactions on Cloud Computing 
 * IEEE Transactions on Industrial Informatics 
 * IEEE Transactions on Network and Service Management 
+* IEEE Transactions on Big Data 
 * IEEE Transactions on Vehicular Technology 
 * IEEE Transactions on Systems, Man and Cybernetics: Systems 
 * IEEE Internet of Things Journal 

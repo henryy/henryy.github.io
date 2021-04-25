@@ -18,6 +18,8 @@ Before joining Tsinghua University, I worked as a research engineer at [LINCS La
 
 News
 ------
+
+* [2021/04] One paper titled "An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks" accepted by IEEE Transactions on Computers.
 * [2021/02] One paper titled "DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation" accepted by ACM AsiaCCS 2021.
 * [2021/02] One paper titled "Privacy-preserving Collaborative Learning with Automatic Transformation Search" accepted by IEEE CVPR 2021 (oral presentation).
 * [2020/12] One paper titled "Adversarial Attacks against Network Intrusion Detection in IoT Systems" accepted by IEEE Internet of Things Journal

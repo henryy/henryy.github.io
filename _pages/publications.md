@@ -11,6 +11,8 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2021
 
+* Shangwei Guo, Tianwei Zhang, **Han Qiu**, Yi Zeng, Tao Xiang, and Yang Liu. "Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models." IJCAI 2021. 
+
 * **Han Qiu**, Yi Zeng, Qinkai Zheng, Shangwei Guo, Tianwei Zhang, and Hewu Li. "An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks." IEEE Transactions on Computers (2021). 
 
 * **Han Qiu**, Zeng Yi, Shangwei Guo, Tianwei Zhang, Meikang Qiu, and Bhavani Thuraisingham. "DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation." ACM AsiaCCS 2021. [[Paper]](https://arxiv.org/pdf/2012.07006)[[Code]](https://github.com/YiZeng623/DeepSweep)

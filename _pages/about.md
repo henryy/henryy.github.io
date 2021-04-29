@@ -19,17 +19,12 @@ Before joining Tsinghua University, I worked as a research engineer at [LINCS La
 News
 ------
 
+* [2021/04] One paper titled "Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models" accepted by IJCAI 2021.
 * [2021/04] One paper titled "An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks" accepted by IEEE Transactions on Computers.
 * [2021/02] One paper titled "DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation" accepted by ACM AsiaCCS 2021.
 * [2021/02] One paper titled "Privacy-preserving Collaborative Learning with Automatic Transformation Search" accepted by IEEE CVPR 2021 (oral presentation).
 * [2020/12] One paper titled "Adversarial Attacks against Network Intrusion Detection in IoT Systems" accepted by IEEE Internet of Things Journal
 * [2020/11] One paper titled "NFV Platforms: Taxonomy, Design Choices and Future Challenges" accepted by IEEE Transactions on Network and Service Management
-* [2020/10] Served on the PC Co-chair of the IEEE ISPA 2021
-* [2020/09] Served on the PC Chair of the Springer KSEM 2021
-* [2020/08] One paper titled "Topological Graph Convolutional Network-Based Urban Traffic Flow and Density Prediction" accepted by IEEE Transactions on Intelligent Transportation Systems
-* [2020/06] Served on the PC of the IEEE INFOCOM 2021
-* [2020/06] One paper titled "Towards Secure and Efficient Deep Learning Inference in Dependable IoT Systems" is accepted by IEEE Internet of Things Journal
-* [2020/05] One paper titled "Deep Residual Learning based Enhanced JPEG Compression in the Internet of Things" is accepted by IEEE Transactions on Industrial Informatics
 
 Research Interests
 ------

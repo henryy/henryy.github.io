@@ -28,5 +28,5 @@ News
 
 Research Interests
 ------
-My research interests mainly focus on solving the security and privacy issues in computing systems, e.g. edge/cloud computing, image processing systems, big data, vehicle-to-everything (V2X) communication systems, and deep learning-based intelligence systems. Currently, I am mainly working on AI security including Adversarial Examples (AE), Backdoor Learning, Privacy-preserving Machine Learning, Secure AI on Networking, etc.
+My research interests mainly focus on solving the security and privacy issues in computing systems, e.g. machine learning systems, edge/cloud computing, image processing systems, big data, and vehicle-to-everything (V2X) communication systems. Currently, I am mainly working on AI security topics including Adversarial Examples (AE), Backdoor Learning, Privacy-preserving Machine Learning, and AI on Networking, etc.
 

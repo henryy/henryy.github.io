@@ -47,8 +47,6 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * **Han Qiu**, Meikang Qiu, Zhihui Lu, and Gerard Memmi. "An efficient key distribution system for data fusion in v2x heterogeneous networks." Information Fusion (2019).
 
-* **Han Qiu**, Gerard Memmi, Xuan Chen, and Jian Xiong. "DC coefficient recovery for JPEG images in ubiquitous communication systems." Future Generation Computer Systems (2019).
-
 * **Han Qiu**, Hassan Noura, Meikang Qiu, Zhong Ming, and Gerard Memmi. "A user-centric data protection method for cloud storage based on invertible DWT." IEEE Transactions on Cloud Computing (2019).
 
 * **Han Qiu**, Meikang Qiu, and Ruqian Lu. "Secure v2x communication network based on intelligent pki and edge computing." IEEE Network (2019).

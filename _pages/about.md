@@ -18,7 +18,7 @@ Before joining Tsinghua University, I worked as a research engineer at [LINCS La
 
 News
 ------
-
+* [2021/06] One paper titled "Novel Denial-of-Service Attacks against Cloud-based Multi-Robot Systems" accepted by Information Sciences.
 * [2021/04] One paper titled "Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models" accepted by IJCAI 2021.
 * [2021/04] One paper titled "An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks" accepted by IEEE Transactions on Computers.
 * [2021/02] One paper titled "DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation" accepted by ACM AsiaCCS 2021.

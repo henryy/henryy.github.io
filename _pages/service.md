@@ -15,6 +15,7 @@ Conference Organization
 
 Technical Program Committee
 ======
+* ACM, International Conference on Multimedia (MM) 2021 
 * IEEE, International Conference on Computer Communications (INFOCOM) 2021 
 * Springer, International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) 2020 
 * IEEE, Symposium on Computers and Communications (ISCC) 2020 
@@ -37,6 +38,7 @@ Journal Reviewer
 * IEEE Transactions on Big Data 
 * IEEE Transactions on Vehicular Technology 
 * IEEE Transactions on Systems, Man and Cybernetics: Systems 
+* ACM Transactions on Internet Technology
 * IEEE Internet of Things Journal 
 * Information Sciences 
 * Future Generations of Computer Systems 

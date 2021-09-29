@@ -32,6 +32,8 @@ Journal Reviewer
 ======
 * IEEE Communication Magazine 
 * IEEE Transactions on Computers 
+* IEEE Transactions on Pattern Analysis and Machine Intelligence
+* IEEE Transactions on Knowledge and Data Engineering
 * IEEE Transactions on Cloud Computing 
 * IEEE Transactions on Industrial Informatics 
 * IEEE Transactions on Network and Service Management 

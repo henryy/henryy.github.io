@@ -10,9 +10,9 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 \* indicates corresponding author 
 
 ### 2021
-* Tian Dong, **Han Qiu**\*,  Jialiang Lu, Meikang Qiu, and Chun Fan. "Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning." IEEE ISPA 2021. 
+* Tian Dong, **Han Qiu**,  Jialiang Lu, Meikang Qiu, and Chun Fan. "Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning." IEEE ISPA 2021. 
 
-* Xingshuo Han, Yuan Zhou, Kangjie Chen, **Han Qiu**, Meikang Qiu, Yang Liu, Tianwei Zhang. "ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems." IEEE Transactions on Intelligent Transportation Systems (2021).
+* Xingshuo Han, Yuan Zhou, Kangjie Chen, **Han Qiu**\*, Meikang Qiu, Yang Liu, Tianwei Zhang. "ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems." IEEE Transactions on Intelligent Transportation Systems (2021).
 
 * Shangwei Guo, Tianwei Zhang, **Han Qiu**, Yi Zeng, Tao Xiang, and Yang Liu. "Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models." IJCAI 2021. 
 

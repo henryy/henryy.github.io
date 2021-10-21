@@ -18,6 +18,8 @@ Before joining Tsinghua University, I worked as a research engineer at [LINCS La
 
 News
 ------
+* [2021/10] One paper titled "ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems" accepted by IEEE Transactions on Intelligent Transportation Systems.
+* [2021/07] One paper titled "Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning" accepted by IEEE ISPA 2021.
 * [2021/06] One paper titled "Novel Denial-of-Service Attacks against Cloud-based Multi-Robot Systems" accepted by Information Sciences.
 * [2021/04] One paper titled "Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models" accepted by IJCAI 2021.
 * [2021/04] One paper titled "An Efficient Preprocessing-based Approach to Mitigate Advanced Adversarial Attacks" accepted by IEEE Transactions on Computers.

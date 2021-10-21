@@ -10,8 +10,9 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 \* indicates corresponding author 
 
 ### 2021
+* Tian Dong, **Han Qiu**\*,  Jialiang Lu, Meikang Qiu, and Chun Fan. "Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning." IEEE ISPA 2021. 
 
-* YuanXu, Gelei Deng, Tianwei Zhang, **Han Qiu**, and Yungang Bao. "Novel Denial-of-Service Attacks against Cloud-based Multi-Robot Systems." Information Sciences (2021). 
+* Xingshuo Han, Yuan Zhou, Kangjie Chen, **Han Qiu**, Meikang Qiu, Yang Liu, Tianwei Zhang. "ADS-Lead: Lifelong Anomaly Detection in Autonomous Driving Systems." IEEE Transactions on Intelligent Transportation Systems (2021).
 
 * Shangwei Guo, Tianwei Zhang, **Han Qiu**, Yi Zeng, Tao Xiang, and Yang Liu. "Fine-tuning Is Not Enough: A Simple yet Effective Watermark Removal Attack for DNN Models." IJCAI 2021. 
 
@@ -29,7 +30,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * **Han Qiu**, Qinkai Zheng, Mounira Msahli, Gerard Memmi, Meikang Qiu, and Jialiang Lu. "Topological Graph Convolutional Network-Based Urban Traffic Flow and Density Prediction." IEEE Transactions on Intelligent Transportation Systems (2020). 
 
-* Yi Zeng, **Han Qiu**\*, Gerard Memmi, and Meikang Qiu. "A Data Augmentation-based Defense Method Against Adversarial Attacks in Neural Networks." In Springer ICA3PP 2020 (best paper award).
+* Yi Zeng, **Han Qiu**\*, Gerard Memmi, and Meikang Qiu. "A Data Augmentation-based Defense Method Against Adversarial Attacks in Neural Networks." Springer ICA3PP 2020 (best paper award).
 
 * **Han Qiu**, Qinkai Zheng, Tianwei Zhang, Meikang Qiu, Gerard Memmi, and Jialiang Lu. "Towards secure and efficient deep learning inference in dependable IoT systems." IEEE Internet of Things Journal (2020). 
 

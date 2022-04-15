@@ -9,6 +9,13 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 \* indicates corresponding author 
 
+### 2022
+* Yujun Huang, Bin Chen, Jianghui Zhang, **Han Qiu**, and Shutao Xia. "Compressive Sensing based Asymmetric Semantic Image Compression for Resource-constrained IoT system." ACM Design Automation Conference 2022.
+
+* **Han Qiu**, Tianzhu Zhang, Tianwei Zhang, Hewu Li, Meikang Qiu. "DefQ: Defensive Quantization against Inference Slow-down Attack for Edge Computing." IEEE Internet of Things Journal (2022)
+
+* Tianzhu Zhang, **Han Qiu**\*, Marco Mellia, Yuanjie Li, Hewu Li, Ke Xu. "Interpreting AI for Networking: Where We Are and Where We Are Going?"  IEEE Communications Magazine (2022)
+
 ### 2021
 * Tian Dong, **Han Qiu**,  Jialiang Lu, Meikang Qiu, and Chun Fan. "Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning." IEEE ISPA 2021. 
 

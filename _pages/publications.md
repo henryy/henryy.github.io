@@ -10,7 +10,9 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 \* indicates corresponding author 
 
 ### 2022
-* Yujun Huang, Bin Chen, Jianghui Zhang, **Han Qiu**, and Shutao Xia. "Compressive Sensing based Asymmetric Semantic Image Compression for Resource-constrained IoT system." ACM Design Automation Conference 2022.
+* Jialai Wang, **Han Qiu**\*, Yi Rong, Hengkai Ye, Qi Li, Zongpeng Li, Chao Zhang. "BET: Black-box Efficient Testing for Convolutional Neural Networks." ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2022
+
+* Yujun Huang, Bin Chen, Jianghui Zhang, **Han Qiu**, and Shutao Xia. "Compressive Sensing based Asymmetric Semantic Image Compression for Resource-constrained IoT system." ACM Design Automation Conference (DAC) 2022.
 
 * **Han Qiu**, Tianzhu Zhang, Tianwei Zhang, Hewu Li, Meikang Qiu. "DefQ: Defensive Quantization against Inference Slow-down Attack for Edge Computing." IEEE Internet of Things Journal (2022)
 

@@ -10,6 +10,10 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 \* indicates corresponding author 
 
 ### 2022
+* Wenbo Jiang, Tianwei Zhang, **Han Qiu**, Hongwei Li, and Guowen Xu. "Incremental Learning, Incremental Backdoor Threats." IEEE Transactions on Dependable and Secure Computing (2022). 
+
+* Guanlin Li, Guowen Xu, **Han Qiu**, Ruan He, Jiwei Li, Tianwei Zhang, Improving Adversarial Robustness of 3D Point Cloud Classification Models, European Conference on Computer Vision (ECCV), 2022
+
 * Jialai Wang, **Han Qiu**\*, Yi Rong, Hengkai Ye, Qi Li, Zongpeng Li, Chao Zhang. "BET: Black-box Efficient Testing for Convolutional Neural Networks." ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2022
 
 * Hao Wang, Wenjie Qu, Gilad Katz, Wenyu Zhu, Zeyu Gao, **Han Qiu**, Jianwei Zhuge, Chao Zhang. "jTrans: Jump-Aware Transformer for Binary Code Similarity Detection." ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2022

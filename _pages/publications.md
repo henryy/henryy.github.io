@@ -11,7 +11,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2022
 
-* Tianzhu Zhang, **Han Qiu**, Gabriele Castellano, Myriana Rifai, Chung Shue Chen, Fabio Pianese. "System Log Parsing: A Survey." IEEE Transactions on Knowledge and Data Engineering (2022).
+* Tianzhu Zhang, **Han Qiu**\*, Gabriele Castellano, Myriana Rifai, Chung Shue Chen, Fabio Pianese. "System Log Parsing: A Survey." IEEE Transactions on Knowledge and Data Engineering (2022).
 
 * Wenbo Jiang, Tianwei Zhang, **Han Qiu**, Hongwei Li, and Guowen Xu. "Incremental Learning, Incremental Backdoor Threats." IEEE Transactions on Dependable and Secure Computing (2022). 
 

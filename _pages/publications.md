@@ -10,6 +10,9 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 \* indicates corresponding author 
 
 ### 2022
+
+* Tianzhu Zhang, **Han Qiu**, Gabriele Castellano, Myriana Rifai, Chung Shue Chen, Fabio Pianese. "System Log Parsing: A Survey." IEEE Transactions on Knowledge and Data Engineering (2022).
+
 * Wenbo Jiang, Tianwei Zhang, **Han Qiu**, Hongwei Li, and Guowen Xu. "Incremental Learning, Incremental Backdoor Threats." IEEE Transactions on Dependable and Secure Computing (2022). 
 
 * Guanlin Li, Guowen Xu, **Han Qiu**, Ruan He, Jiwei Li, Tianwei Zhang, Improving Adversarial Robustness of 3D Point Cloud Classification Models, European Conference on Computer Vision (ECCV), 2022

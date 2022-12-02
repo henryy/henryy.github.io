@@ -9,25 +9,33 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 \* indicates corresponding author 
 
+### 2023
+
+* Tian Dong, Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Hewu Li, Terry Wang. “Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing.” IEEE International Conference on Computer Communications (INFOCOM) 2023
+
+
 ### 2022
 
-* Tianzhu Zhang, **Han Qiu**\*, Gabriele Castellano, Myriana Rifai, Chung Shue Chen, Fabio Pianese. "System Log Parsing: A Survey." IEEE Transactions on Knowledge and Data Engineering (2022).
+* Tianzhu Zhang, **Han Qiu**\*, Gabriele Castellano, Myriana Rifai, Chung Shue Chen, Fabio Pianese. "System Log Parsing: A Survey." IEEE Transactions on Knowledge and Data Engineering (2022)
 
-* Wenbo Jiang, Tianwei Zhang, **Han Qiu**, Hongwei Li, and Guowen Xu. "Incremental Learning, Incremental Backdoor Threats." IEEE Transactions on Dependable and Secure Computing (2022). 
+* Wenbo Jiang, Tianwei Zhang, **Han Qiu**, Hongwei Li, and Guowen Xu. "Incremental Learning, Incremental Backdoor Threats." IEEE Transactions on Dependable and Secure Computing (2022)
 
-* Guanlin Li, Guowen Xu, **Han Qiu**, Ruan He, Jiwei Li, Tianwei Zhang, Improving Adversarial Robustness of 3D Point Cloud Classification Models, European Conference on Computer Vision (ECCV), 2022
+* Guanlin Li, Guowen Xu, **Han Qiu**, Ruan He, Jiwei Li, Tianwei Zhang, Improving Adversarial Robustness of 3D Point Cloud Classification Models, European Conference on Computer Vision (ECCV) 2022
 
 * Jialai Wang, **Han Qiu**\*, Yi Rong, Hengkai Ye, Qi Li, Zongpeng Li, Chao Zhang. "BET: Black-box Efficient Testing for Convolutional Neural Networks." ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2022
 
 * Hao Wang, Wenjie Qu, Gilad Katz, Wenyu Zhu, Zeyu Gao, **Han Qiu**, Jianwei Zhuge, Chao Zhang. "jTrans: Jump-Aware Transformer for Binary Code Similarity Detection." ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2022
 
-* Yujun Huang, Bin Chen, Jianghui Zhang, **Han Qiu**, and Shutao Xia. "Compressive Sensing based Asymmetric Semantic Image Compression for Resource-constrained IoT system." ACM Design Automation Conference (DAC) 2022.
+* Yujun Huang, Bin Chen, Jianghui Zhang, **Han Qiu**, and Shutao Xia. "Compressive Sensing based Asymmetric Semantic Image Compression for Resource-constrained IoT system." ACM Design Automation Conference (DAC) 2022
 
 * Akshaya Ravi, Mounira Msahli, **Han Qiu**\*, Gerard Memmi, Albert Bifet, Meikang Qiu. "Wangiri Fraud: Pattern Analysis and Machine Learning-based Detection." IEEE Internet of Things Journal (2022)
 
 * **Han Qiu**, Tianzhu Zhang, Tianwei Zhang, Hewu Li, Meikang Qiu. "DefQ: Defensive Quantization against Inference Slow-down Attack for Edge Computing." IEEE Internet of Things Journal (2022)
 
 * Tianzhu Zhang, **Han Qiu**\*, Marco Mellia, Yuanjie Li, Hewu Li, Ke Xu. "Interpreting AI for Networking: Where We Are and Where We Are Going?"  IEEE Communications Magazine (2022)
+
+* Jianghui Zhang, Bin Chen, Yujun Huang, **Han Qiu**, Zhi Wang, Shutao Xia. “Improved DC Estimation for JPEG Compression Via Convex Relaxation.” IEEE International Conference on Image Processing (ICIP) 2022
+
 
 ### 2021
 * Tian Dong, **Han Qiu**,  Jialiang Lu, Meikang Qiu, and Chun Fan. "Towards Fast Network Intrusion Detection based on Efficiency-preserving Federated Learning." IEEE ISPA 2021. 

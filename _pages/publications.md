@@ -11,8 +11,9 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2023
 
-* Tian Dong, Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Hewu Li, Terry Wang. "Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing." IEEE International Conference on Computer Communications (INFOCOM) 2023
+* Guanlin Li, Guowen Xu, Shangwei Guo, **Han Qiu**, Jiwei Li, Tianwei Zhang, "Extracting Robust Models with Uncertain Examples." International Conference on Learning Representations (ICLR) 2023
 
+* Tian Dong, Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Hewu Li, Terry Wang. "Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing." IEEE International Conference on Computer Communications (INFOCOM) 2023
 
 ### 2022
 

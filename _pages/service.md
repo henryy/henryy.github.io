@@ -15,18 +15,12 @@ Conference Organization
 
 Technical Program Committee
 ======
+* ACM, SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2022
 * ACM, International Conference on Multimedia (MM) 2021 
 * IEEE, International Conference on Computer Communications (INFOCOM) 2021 
+* Springer, International Conference on Knowledge Science, Engineering and Management (KSEM) 2022, 2023
 * Springer, International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) 2020 
 * IEEE, Symposium on Computers and Communications (ISCC) 2020 
-* IEEE, International Symposium on Edge Computing Security and Blockchain (EdgeBlock) 2020 
-* IEEE, Conference on Innovation in Clouds, Internet and Networks (ICIN) 2020 
-* ACM, International Symposium on Blockchain and Secure Critical Infrastructure (BSCI) 2019, 2020 
-* IEEE, International Conference on Big Data Security on Cloud (BigDataSecurity) 2019,2020 
-* IEEE, International Conference on Cyber Security and Cloud Computing (CSCloud) 2019,2020 
-* IEEE, International Conference on Embedded and Ubiquitous Computing (EUC) 2019 Springer, 
-* International Conference on Smart Computing and Communication (SmartCom) 2018, 2019, 2020 
-* IEEE, International Conference on Smart Cloud (SmartCloud) 2019, 2020
 
 Journal Reviewer
 ======
@@ -43,7 +37,3 @@ Journal Reviewer
 * ACM Transactions on Internet Technology
 * IEEE Internet of Things Journal 
 * Information Sciences 
-* Future Generations of Computer Systems 
-* Applied Soft Computing 
-* Journal of Parallel and Distributed Computing 
-* Journal of Signal Processing Systems

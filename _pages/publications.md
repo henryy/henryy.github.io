@@ -63,7 +63,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * **Han Qiu**, Qinkai Zheng, Mounira Msahli, Gerard Memmi, Meikang Qiu, and Jialiang Lu. "Topological Graph Convolutional Network-Based Urban Traffic Flow and Density Prediction." IEEE Transactions on Intelligent Transportation Systems (2020). 
 
-* Yi Zeng, **Han Qiu**\*, Gerard Memmi, and Meikang Qiu. "A Data Augmentation-based Defense Method Against Adversarial Attacks in Neural Networks." Springer ICA3PP 2020 (best paper award).
+* Yi Zeng, **Han Qiu**\*, Gerard Memmi, and Meikang Qiu. "A Data Augmentation-based Defense Method Against Adversarial Attacks in Neural Networks." Springer ICA3PP 2020 (**best paper award**).
 
 * **Han Qiu**, Qinkai Zheng, Tianwei Zhang, Meikang Qiu, Gerard Memmi, and Jialiang Lu. "Towards secure and efficient deep learning inference in dependable IoT systems." IEEE Internet of Things Journal (2020). 
 
@@ -77,7 +77,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2019
 
-* **Han Qiu**, Qinkai Zheng, Meikang Qiu, and Gerard Memmi. "DC Coefficients Recovery from AC Coefficients in the JPEG Compression Scenario." Springer SmartCom 2019 (best paper award).
+* **Han Qiu**, Qinkai Zheng, Meikang Qiu, and Gerard Memmi. "DC Coefficients Recovery from AC Coefficients in the JPEG Compression Scenario." Springer SmartCom 2019 (**best paper award**).
 
 * **Han Qiu**, Katarzyna Kapusta, Zhihui Lu, Meikang Qiu, and Gerard Memmi. "All-Or-Nothing data protection for ubiquitous communication: Challenges and perspectives." Information Sciences (2019).
 

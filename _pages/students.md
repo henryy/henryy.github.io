@@ -8,7 +8,17 @@ redirect_from:
 
 {% include base_path %}
 
-**I have the pleasure to work with the following brilliant students.**
+**Ph.D. Students.**
+
+* Meiqi Wang, 09/2022-
+* Ziyuan Zhang, 09/2023-
+* Jianshuo Dong, 09/2023-
+
+**Co-supervision Ph.D. Students.**
+
+* Lijun Chi, 11/2021-
+
+**I also have the pleasure to work with the following brilliant students.**
 
 * Tian Dong, 03/2020 - 08/2020, master student from Ecole Polytechnique, France 
 * Qinkai Zheng, 07/2019 - 02/2020, master student from SPEIT, Shanghai Jiao Tong University, China 

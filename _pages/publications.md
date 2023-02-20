@@ -13,7 +13,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * Jialai Wang, Ziyuan Zhang, Meiqi Wang, **Han Qiu**\*, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang. "Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks." USENIX Security Symposium 2023
 
-* Jialai Wang, Wenjie Qu, Yi Rong, **Han Qiu**\*, Qi Li, Zongpeng L, Chao Zhang. "MPass: Bypassing Learning-based Static Malware Detectors." ACM Design Automation Conference (DAC) 2023
+* Jialai Wang, Wenjie Qu, Yi Rong, **Han Qiu**, Qi Li, Zongpeng L, Chao Zhang. "MPass: Bypassing Learning-based Static Malware Detectors." ACM Design Automation Conference (DAC) 2023
 
 * Guanlin Li, Guowen Xu, Shangwei Guo, **Han Qiu**, Jiwei Li, Tianwei Zhang. "Extracting Robust Models with Uncertain Examples." International Conference on Learning Representations (ICLR) 2023
 

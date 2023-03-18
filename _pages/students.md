@@ -17,6 +17,8 @@ redirect_from:
 **Co-supervision Ph.D. Students.**
 
 * Lijun Chi, 11/2021-
+* Qingjie Zhang, 05/2023-
+* [Jialai Wang](https://netsec.ccert.edu.cn/people/wjl19), 01/2022-
 
 **I also have the pleasure to work with the following brilliant students.**
 

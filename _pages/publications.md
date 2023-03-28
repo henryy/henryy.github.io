@@ -19,6 +19,9 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * Tian Dong, Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Hewu Li, Terry Wang. "Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing." IEEE International Conference on Computer Communications (INFOCOM) 2023
 
+* Wei Gao, Xu Zhang, Shangwei Guo, Tianwei Zhang, Tao Xiang, **Han Qiu**, Yonggang Wen, Yang Liu. "Automatic Transformation Search Against Deep Leakage from Gradients." IEEE Transactions on Pattern Analysis and Machine Intelligence (2023)
+
+
 ### 2022
 
 * Tianzhu Zhang, **Han Qiu**\*, Gabriele Castellano, Myriana Rifai, Chung Shue Chen, Fabio Pianese. "System Log Parsing: A Survey." IEEE Transactions on Knowledge and Data Engineering (2022)

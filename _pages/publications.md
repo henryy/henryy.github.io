@@ -21,6 +21,8 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * Wei Gao, Xu Zhang, Shangwei Guo, Tianwei Zhang, Tao Xiang, **Han Qiu**, Yonggang Wen, Yang Liu. "Automatic Transformation Search Against Deep Leakage from Gradients." IEEE Transactions on Pattern Analysis and Machine Intelligence (2023)
 
+* Meqi Wang, **Han Qiu**, Tianwei Zhang, Meikang Qiu and Bhavani Thuraisingham. "Mitigating Query-based Neural Network Fingerprinting via Data Augmentation." ACM Transactions on Sensor Networks (2023)
+
 
 ### 2022
 

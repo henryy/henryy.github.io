@@ -19,6 +19,8 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * Tian Dong, Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Hewu Li, Terry Wang. "Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing." IEEE International Conference on Computer Communications (INFOCOM) 2023
 
+* Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai, and **Han Qiu**. "A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation." International Conference on Mobile Computing and Networking (MobiCom) 2023
+
 * Wei Gao, Xu Zhang, Shangwei Guo, Tianwei Zhang, Tao Xiang, **Han Qiu**, Yonggang Wen, Yang Liu. "Automatic Transformation Search Against Deep Leakage from Gradients." IEEE Transactions on Pattern Analysis and Machine Intelligence (2023)
 
 * Meqi Wang, **Han Qiu**, Tianwei Zhang, Meikang Qiu and Bhavani Thuraisingham. "Mitigating Query-based Neural Network Fingerprinting via Data Augmentation." ACM Transactions on Sensor Networks (2023)

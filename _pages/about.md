@@ -18,5 +18,5 @@ Before joining Tsinghua University, I worked as a research engineer at [LINCS La
 
 Research Interests
 ------
-My research interests mainly focus on solving the security and privacy issues in computing systems, e.g. machine learning systems, edge/cloud computing, image processing systems, big data, and vehicle-to-everything (V2X) communication systems. Currently, I am mainly working on AI security topics including Adversarial Examples (AE), Backdoor Learning, Privacy-preserving Machine Learning, and AI on Networking, etc. 
+My research interests focus on solving the security issues in computing systems. Currently, I am mainly working on AI security topics including edge computing security issues on FPGA devices and novel attacks/defenses in deep learning. 
 

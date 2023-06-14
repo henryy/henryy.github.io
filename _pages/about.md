@@ -10,7 +10,7 @@ redirect_from:
 I am an assistant professor at [Institute for Network Sciences and Cyberspace](http://www.insc.tsinghua.edu.cn/) 
 ,[Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China. 
 
-**I'm always looking for highly motivated Ph.D., master, undergraduate students, interns interested in AI or security. Besides, experience or degrees in math or physics are plus. Feel free to send me an email with your CV if you are interested.**
+I'm always looking for highly motivated Ph.D., master, undergraduate students, interns interested in AI or security. Besides, experience of **FPGA programming** or **software testing** are a strong plus. Feel free to send me an email with your CV if you are interested.
 
 Bio
 ------

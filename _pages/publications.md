@@ -9,6 +9,10 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 \* indicates corresponding author 
 
+### 2024
+
+* Xingshuo Han, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, **Han Qiu**, Guowen Xu, Tianwei Zhang. "Backdooring Multimodal Learning." IEEE Symposium on Security and Privacy 2024.
+
 ### 2023
 
 * Jialai Wang, Ziyuan Zhang, Meiqi Wang, **Han Qiu**\*, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang. "Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks." USENIX Security Symposium 2023

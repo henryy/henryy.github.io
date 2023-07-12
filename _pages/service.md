@@ -15,7 +15,8 @@ Conference Organization
 
 Technical Program Committee
 ======
-* ACM, SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2022
+* ACM, ASIA Conference on Computer and Communications Security (ASIACCS) 2024
+* ACM, SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2023
 * ACM, International Conference on Multimedia (MM) 2021 
 * IEEE, International Conference on Computer Communications (INFOCOM) 2021 
 * Springer, International Conference on Knowledge Science, Engineering and Management (KSEM) 2022, 2023

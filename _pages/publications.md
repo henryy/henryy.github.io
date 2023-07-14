@@ -1,6 +1,5 @@
-![image](https://github.com/henryy/henryy.github.io/assets/1666315/17680676-0ea4-459f-ac5a-ff6a0e23cd08)---
+---
 layout: archive
-title: ""
 permalink: /publications/
 author_profile: true
 ---

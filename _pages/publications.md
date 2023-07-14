@@ -1,4 +1,4 @@
----
+![image](https://github.com/henryy/henryy.github.io/assets/1666315/17680676-0ea4-459f-ac5a-ff6a0e23cd08)---
 layout: archive
 title: ""
 permalink: /publications/
@@ -15,6 +15,10 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2023
 
+* Jianshuo Dong, **Han Qiu**, Yiming Li, Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia. "One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training." International Conference on Computer Vision (ICCV) 2023
+
+* Yutong Wu, Xingshuo Han, **Han Qiu**\*, Tianwei Zhang. "Computation and Data Efficient Backdoor Attacks." International Conference on Computer Vision (ICCV) 2023
+
 * Jialai Wang, Ziyuan Zhang, Meiqi Wang, **Han Qiu**\*, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang. "Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks." USENIX Security Symposium 2023
 
 * Jialai Wang, Wenjie Qu, Yi Rong, **Han Qiu**, Qi Li, Zongpeng L, Chao Zhang. "MPass: Bypassing Learning-based Static Malware Detectors." ACM Design Automation Conference (DAC) 2023
@@ -23,7 +27,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * Tian Dong, Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Hewu Li, Terry Wang. "Mind Your Heart: Stealthy Backdoor Attack on Dynamic Deep Neural Network in Edge Computing." IEEE International Conference on Computer Communications (INFOCOM) 2023
 
-* Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai, and **Han Qiu**. "A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation." International Conference on Mobile Computing and Networking (MobiCom) 2023
+* Yuanjie Li, Hewu Li, Wei Liu, Lixin Liu, Wei Zhao, Yimei Chen, Jianping Wu, Qian Wu, Jun Liu, Zeqi Lai, **Han Qiu**. "A Networking Perspective on Starlink's Self-Driving LEO Mega-Constellation." International Conference on Mobile Computing and Networking (MobiCom) 2023
 
 * Wei Gao, Xu Zhang, Shangwei Guo, Tianwei Zhang, Tao Xiang, **Han Qiu**, Yonggang Wen, Yang Liu. "Automatic Transformation Search Against Deep Leakage from Gradients." IEEE Transactions on Pattern Analysis and Machine Intelligence (2023)
 

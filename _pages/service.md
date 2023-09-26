@@ -15,6 +15,7 @@ Conference Organization
 
 Technical Program Committee
 ======
+* USENIX Security Symposium 2024
 * ACM, ASIA Conference on Computer and Communications Security (ASIACCS) 2024
 * ACM, SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2023
 * ACM, International Conference on Multimedia (MM) 2021 

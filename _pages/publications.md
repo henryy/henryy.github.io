@@ -10,15 +10,15 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2024
 
-* Xingshuo Han, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, **Han Qiu**, Guowen Xu, Tianwei Zhang. "Backdooring Multimodal Learning." IEEE Symposium on Security and Privacy 2024.
+* Xingshuo Han, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, **Han Qiu**, Guowen Xu, Tianwei Zhang. "Backdooring Multimodal Learning." IEEE Symposium on Security and Privacy (Oakland) 2024.
 
 ### 2023
 
-* Qingjie Zhang, Maosen Zhang, **Han Qiu**\*, Tianwei Zhang, Mounira Msahli, and Gerard Memmi. "ATTA: Adversarial Task-transferable Attacks on Autonomous Driving Systems." International Conference on Data Mining (ICDM) 2023
+* Qingjie Zhang, Maosen Zhang, **Han Qiu**\*, Tianwei Zhang, Mounira Msahli, and Gerard Memmi. "ATTA: Adversarial Task-transferable Attacks on Autonomous Driving Systems." IEEE International Conference on Data Mining (ICDM) 2023
 
-* Jianshuo Dong, **Han Qiu**, Yiming Li, Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia. "One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training." International Conference on Computer Vision (ICCV) 2023
+* Jianshuo Dong, **Han Qiu**, Yiming Li, Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia. "One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training." IEEE International Conference on Computer Vision (ICCV) 2023
 
-* Yutong Wu, Xingshuo Han, **Han Qiu**\*, Tianwei Zhang. "Computation and Data Efficient Backdoor Attacks." International Conference on Computer Vision (ICCV) 2023
+* Yutong Wu, Xingshuo Han, **Han Qiu**\*, Tianwei Zhang. "Computation and Data Efficient Backdoor Attacks." IEEE International Conference on Computer Vision (ICCV) 2023
 
 * Jialai Wang, Ziyuan Zhang, Meiqi Wang, **Han Qiu**\*, Tianwei Zhang, Qi Li, Zongpeng Li, Tao Wei, Chao Zhang. "Aegis: Mitigating Targeted Bit-flip Attacks against Deep Neural Networks." USENIX Security Symposium 2023
 

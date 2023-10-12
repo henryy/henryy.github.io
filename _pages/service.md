@@ -15,6 +15,7 @@ Conference Organization
 
 Technical Program Committee
 ======
+* USENIX, USENIX Security Symposium 2024
 * ACM, ASIA Conference on Computer and Communications Security (ASIACCS) 2024
 * ACM, SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2023
 * ACM, International Conference on Multimedia (MM) 2021 
@@ -36,5 +37,3 @@ Journal Reviewer
 * IEEE Transactions on Vehicular Technology 
 * IEEE Transactions on Systems, Man and Cybernetics: Systems 
 * ACM Transactions on Internet Technology
-* IEEE Internet of Things Journal 
-* Information Sciences 

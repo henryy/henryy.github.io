@@ -29,8 +29,8 @@ redirect_from:
 **I also have the pleasure to work with the following brilliant students.**
 
 * [Tian Dong](https://chichidd.github.io/), 03/2020 - 08/2020, master student from Ecole Polytechnique, France 
-* Qinkai Zheng, 07/2019 - 02/2020, master student from SPEIT, Shanghai Jiao Tong University, China 
-* [Yi Zeng](https://yizeng623.github.io/), 08/2018 - 10/2018, visiting undergraduate student from Xidian University, China 
+* [Qinkai Zheng](https://scholar.google.com/citations?user=54wdDqcAAAAJ&hl=en)  07/2019 - 02/2020, master student from SPEIT, Shanghai Jiao Tong University, China 
+* [Yi Zeng](https://www.yi-zeng.com/), 08/2018 - 10/2018, visiting undergraduate student from Xidian University, China 
 * [Nathalie Enfrin](https://www.linkedin.com/in/nathalie-enfrin-b47b1b152/?originalSubdomain=fr), 06/2018 - 08/2018, master student from Telecom-ParisTech, France 
 * Patrick Lambein, 06/2016 - 08/2016, master student from Ecole Polytechnique, France
 

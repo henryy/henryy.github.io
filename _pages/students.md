@@ -12,7 +12,7 @@ redirect_from:
 
 * Meiqi Wang, 09/2022 -
 * Ziyuan Zhang, 09/2023 -
-* Jianshuo Dong, 09/2023 -
+* [Jianshuo Dong](https://scholar.google.com/citations?hl=en&user=CY23PzAAAAAJ), 09/2023 - 
   
 **Master Students.**
 

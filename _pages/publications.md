@@ -11,7 +11,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 ### 2024
 
 * Xingshuo Han, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, **Han Qiu**, Guowen Xu, Tianwei Zhang. "Backdooring Multimodal Learning." IEEE Symposium on Security and Privacy (Oakland) 2024.
-* Yutong Wu, **Han Qiu**, Shangwei Guo, Jiwei Li, Tianwei Zhang, You Only Query Once: An Efficient Label-Only Membership Inference Attack, International Conference on Learning Representations (ICLR) 2024
+* Yutong Wu, **Han Qiu**, Shangwei Guo, Jiwei Li, Tianwei Zhang. "You Only Query Once: An Efficient Label-Only Membership Inference Attack." International Conference on Learning Representations (ICLR) 2024
 
 ### 2023
 

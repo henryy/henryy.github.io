@@ -12,13 +12,13 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * Xingshuo Han, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, **Han Qiu**, Guowen Xu, Tianwei Zhang. "Backdooring Multimodal Learning." IEEE Symposium on Security and Privacy (Oakland) 2024
 
-* Qingjie Zhang, Lijun Chi, Di Wang, Mounira Msahli, Gerard Memmi, Tianwei Zhang, Chao Zhang and **Han Qiu**\*. "Laser Shield: a Physical Defense with Polarizer against Laser Attack." ACM Design Automation Conference (DAC) 2024
+* Qingjie Zhang, Lijun Chi, Di Wang, Mounira Msahli, Gerard Memmi, Tianwei Zhang, Chao Zhang, **Han Qiu**\*. "Laser Shield: a Physical Defense with Polarizer against Laser Attack." ACM Design Automation Conference (DAC) 2024
   
 * Yutong Wu, **Han Qiu**, Shangwei Guo, Jiwei Li, Tianwei Zhang. "You Only Query Once: An Efficient Label-Only Membership Inference Attack." International Conference on Learning Representations (ICLR) 2024
 
 ### 2023
 
-* Qingjie Zhang, Maosen Zhang, **Han Qiu**\*, Tianwei Zhang, Mounira Msahli, and Gerard Memmi. "ATTA: Adversarial Task-transferable Attacks on Autonomous Driving Systems." IEEE International Conference on Data Mining (ICDM) 2023
+* Qingjie Zhang, Maosen Zhang, **Han Qiu**\*, Tianwei Zhang, Mounira Msahli, Gerard Memmi. "ATTA: Adversarial Task-transferable Attacks on Autonomous Driving Systems." IEEE International Conference on Data Mining (ICDM) 2023
 
 * Jianshuo Dong, **Han Qiu**, Yiming Li, Tianwei Zhang, Yuanjie Li, Zeqi Lai, Chao Zhang, Shu-Tao Xia. "One-bit Flip is All You Need: When Bit-flip Attack Meets Model Training." IEEE International Conference on Computer Vision (ICCV) 2023
 
@@ -36,7 +36,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * Wei Gao, Xu Zhang, Shangwei Guo, Tianwei Zhang, Tao Xiang, **Han Qiu**, Yonggang Wen, Yang Liu. "Automatic Transformation Search Against Deep Leakage from Gradients." IEEE Transactions on Pattern Analysis and Machine Intelligence (2023)
 
-* Meqi Wang, **Han Qiu**, Tianwei Zhang, Meikang Qiu and Bhavani Thuraisingham. "Mitigating Query-based Neural Network Fingerprinting via Data Augmentation." ACM Transactions on Sensor Networks (2023)
+* Meqi Wang, **Han Qiu**, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham. "Mitigating Query-based Neural Network Fingerprinting via Data Augmentation." ACM Transactions on Sensor Networks (2023)
 
 
 ### 2022

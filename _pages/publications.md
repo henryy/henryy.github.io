@@ -14,7 +14,8 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * Qingjie Zhang, Lijun Chi, Di Wang, Mounira Msahli, Gerard Memmi, Tianwei Zhang, Chao Zhang, **Han Qiu**\*. "Laser Shield: a Physical Defense with Polarizer against Laser Attack." ACM Design Automation Conference (DAC) 2024
   
-* Yutong Wu, **Han Qiu**, Shangwei Guo, Jiwei Li, Tianwei Zhang. "You Only Query Once: An Efficient Label-Only Membership Inference Attack." International Conference on Learning Representations (ICLR) 2024.
+* Yutong Wu, **Han Qiu**\*, Shangwei Guo, Jiwei Li, Tianwei Zhang. "You Only Query Once: An Efficient Label-Only Membership Inference Attack." International Conference on Learning Representations (ICLR) 2024.
+
 
 ### 2023
 

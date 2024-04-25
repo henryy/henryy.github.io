@@ -16,7 +16,7 @@ Education
 
 Working experience
 ======
-* Assistant Professor at Tsinghua University, Beijing, China, 2021/03 – presnet 
+* Assistant Professor at Tsinghua University, Beijing, China, 2021/03 – present 
   * Working on Secure and Intelligent Networking Systems.
 
 * Research Engineer at LINCS Lab, Paris, France, 2020/01 – 2021/02 

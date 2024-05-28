@@ -10,7 +10,13 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2024
 
+* Xingshuo Han, Haozhao Wang, Kangqiao Zhao, Gelei Deng, Yuan Xu, Hangcheng Liu, **Han Qiu**, Tianwei Zhang. "VisionGuard: Secure and Robust Visual Perception of Autonomous Vehicles in Practice." ACM Conference on Computer and Communications Security (CCS) 2024
+
+* Yuan Xu, Gelei Deng, Xingshuo Han, Guanlin Li, **Han Qiu**, Tianwei Zhang. "PhyScout: Detecting Sensor Spoofing Attacks via Spatio-temporal Consistency." ACM Conference on Computer and Communications Security (CCS) 2024
+
 * Xingshuo Han, Yutong Wu, Qingjie Zhang, Yuan Zhou, Yuan Xu, **Han Qiu**, Guowen Xu, Tianwei Zhang. "Backdooring Multimodal Learning." IEEE Symposium on Security and Privacy (Oakland) 2024
+
+* Boheng Li, Yishuo Cai, Jisong Cai, Yiming Li, **Han Qiu**, Run Wang, Tianwei Zhang. "Purifying Quantization-conditioned Backdoors via Layer-wise Activation Correction with Distribution Approximation." International Conference on Machine Learning (ICML) 2024
 
 * Qingjie Zhang, Lijun Chi, Di Wang, Mounira Msahli, Gerard Memmi, Tianwei Zhang, Chao Zhang, **Han Qiu**\*. "Laser Shield: a Physical Defense with Polarizer against Laser Attack." ACM Design Automation Conference (DAC) 2024
   

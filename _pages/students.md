@@ -12,16 +12,15 @@ redirect_from:
 
 * Meiqi Wang, 09/2022 -
 * Ziyuan Zhang, 09/2023 -
-* [Jianshuo Dong](https://scholar.google.com/citations?hl=en&user=CY23PzAAAAAJ), 09/2023 - 
+* [Jianshuo Dong](https://scholar.google.com/citations?hl=en&user=CY23PzAAAAAJ), 09/2023 -
+* Qingjie Zhang, 09/2024 -
   
 **Master Students.**
 
 * Maosen Zhang, 09/2024 -
 
 **Co-supervised Students.**
-
 * Lijun Chi, 11/2021 -
-* Qingjie Zhang, 05/2023 -
 * [Rongwu Xu](https://rongwuxu.site/), 01/2023 - 
 * Longnv Xu, 09/2023 -
 * [Jialai Wang](https://netsec.ccert.edu.cn/people/wjl19), 01/2022 - 01/2023

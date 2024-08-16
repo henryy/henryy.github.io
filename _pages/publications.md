@@ -10,6 +10,8 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2024
 
+* Rongwu Xu, Brian S Lin, Shujian Yang, Tianqi Zhang, Weiyan Shi, Tianwei Zhang, Zhixuan Fang, Wei Xu, **Han Qiu**\*. "The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation." The 62nd Annual Meeting of the Association for Computational Linguistics (ACL) 2024 <font color='red'>**Outstanding Paper Award**</font>
+
 * Xingshuo Han, Haozhao Wang, Kangqiao Zhao, Gelei Deng, Yuan Xu, Hangcheng Liu, **Han Qiu**, Tianwei Zhang. "VisionGuard: Secure and Robust Visual Perception of Autonomous Vehicles in Practice." ACM Conference on Computer and Communications Security (CCS) 2024
 
 * Yuan Xu, Gelei Deng, Xingshuo Han, Guanlin Li, **Han Qiu**, Tianwei Zhang. "PhyScout: Detecting Sensor Spoofing Attacks via Spatio-temporal Consistency." ACM Conference on Computer and Communications Security (CCS) 2024
@@ -21,6 +23,8 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 * Qingjie Zhang, Lijun Chi, Di Wang, Mounira Msahli, Gerard Memmi, Tianwei Zhang, Chao Zhang, **Han Qiu**\*. "Laser Shield: a Physical Defense with Polarizer against Laser Attack." ACM Design Automation Conference (DAC) 2024
   
 * Yutong Wu, **Han Qiu**\*, Shangwei Guo, Jiwei Li, Tianwei Zhang. "You Only Query Once: An Efficient Label-Only Membership Inference Attack." International Conference on Learning Representations (ICLR) 2024.
+
+* Xiaobei Yan, **Han Qiu** and Tianwei Zhang. "UniGuard: A Unified Hardware-oriented Threat Detector for FPGA-based AI Accelerators." International Conference on Field-Programmable Logic and Applications (FPL) 2024. 
 
 
 ### 2023

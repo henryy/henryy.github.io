@@ -10,7 +10,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2024
 
-* Rongwu Xu, Brian S Lin, Shujian Yang, Tianqi Zhang, Weiyan Shi, Tianwei Zhang, Zhixuan Fang, Wei Xu, **Han Qiu**\*. "The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation." The 62nd Annual Meeting of the Association for Computational Linguistics (ACL) 2024 <b><font color='red'>Outstanding Paper Award</font></b>
+* Rongwu Xu, Brian S Lin, Shujian Yang, Tianqi Zhang, Weiyan Shi, Tianwei Zhang, Zhixuan Fang, Wei Xu, **Han Qiu**\*. "The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation." Annual Meeting of the Association for Computational Linguistics (ACL) 2024 <b><font color='red'>Outstanding Paper Award</font></b>
 
 * Xingshuo Han, Haozhao Wang, Kangqiao Zhao, Gelei Deng, Yuan Xu, Hangcheng Liu, **Han Qiu**, Tianwei Zhang. "VisionGuard: Secure and Robust Visual Perception of Autonomous Vehicles in Practice." ACM Conference on Computer and Communications Security (CCS) 2024
 

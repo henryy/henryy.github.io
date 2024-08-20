@@ -8,10 +8,11 @@ redirect_from:
 
 {% include base_path %}
 
-Conference Organization
+Conference Services
 ======
-* PC Co-Chair, Springer, International Conference on Knowledge Science, Engineering and Management (KSEM) 2021
-* Program Chair, IEEE, International Symposium on Parallel and Distributed Processing with Applications (ISPA) 2021 
+* **Area Chair**, The International Conference on Learning Representations (ICLR) 2025 
+* **PC Co-Chair**, Springer, International Conference on Knowledge Science, Engineering and Management (KSEM) 2021
+* **PC Chair**, IEEE, International Symposium on Parallel and Distributed Processing with Applications (ISPA) 2021
 
 Technical Program Committee
 ======
@@ -23,7 +24,6 @@ Technical Program Committee
 * IEEE, International Conference on Computer Communications (INFOCOM) 2021 
 * Springer, International Conference on Knowledge Science, Engineering and Management (KSEM) 2022, 2023
 * Springer, International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) 2020 
-* IEEE, Symposium on Computers and Communications (ISCC) 2020 
 
 Journal Reviewer
 ======

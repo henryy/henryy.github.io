@@ -27,9 +27,3 @@ Working experience
 
 * PostDoc Researcher at INFRES, Telecom Paris, France, 2017/11 – 2019/12 
   * Working on Secure Systems for Vehicle-to-Everything (V2X) Communication, supervised by Prof. Gerard Memmi
-
-* Internship at Orange Lab, Paris, France, 2013/03 – 2013/08
-  * Working on Information-Centric Network (ICN) Experimentaton and Measurement, supervised by Dr. Luca Muscariello
-
-* Summer intern at Insitute Eurecom, Sophia Antipolis, France, 2012/07 - 2012/09
-  * Working on Static Analysis and Reverse Engineering on Baseband Firmware on Smartphones, supervised by Prof. Aurelien Francillon

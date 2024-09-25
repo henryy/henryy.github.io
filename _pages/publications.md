@@ -10,7 +10,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2024
 
-* <small>Ziyuan Zhang,  **Han Qiu**\*, Zhang Maosen, Jun Liu, Bin Chen, Tianwei Zhang, Hewu Li. "COSMIC: Compress Satellite Image Efficiently via Diffusion Compensation." Annual Conference on Neural Information Processing Systems (NeurIPS) 2024. </small>
+* Ziyuan Zhang,  **Han Qiu**\*, Zhang Maosen, Jun Liu, Bin Chen, Tianwei Zhang, Hewu Li. "COSMIC: Compress Satellite Image Efficiently via Diffusion Compensation." Annual Conference on Neural Information Processing Systems (NeurIPS) 2024. 
 
 * Rongwu Xu, Zian Zhou, Tianwei Zhang, Zehan Qi, Su Yao, Ke Xu, Wei Xu, **Han Qiu**\*. "Walking in Others' Shoes: How Perspective-Taking Guides Large Language Models in Reducing Toxicity and Bias." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024.
 

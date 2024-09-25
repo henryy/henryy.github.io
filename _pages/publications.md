@@ -14,7 +14,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * Rongwu Xu, Zian Zhou, Tianwei Zhang, Zehan Qi, SU YAO, Ke Xu, Wei Xu, **Han Qiu**\*. "Walking in Others' Shoes: How Perspective-Taking Guides Large Language Models in Reducing Toxicity and Bias." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024.
 
-* Rongwu Xu, Brian S Lin, Shujian Yang, Tianqi Zhang, Weiyan Shi, Tianwei Zhang, Zhixuan Fang, Wei Xu, **Han Qiu**\*. "The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation." Annual Meeting of the Association for Computational Linguistics (ACL) 2024 <b><font color='red'>Outstanding Paper Award</font></b>
+* Rongwu Xu, Brian S Lin, Shujian Yang, Tianqi Zhang, Weiyan Shi, Tianwei Zhang, Zhixuan Fang, Wei Xu, **Han Qiu**\*. "The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation." Annual Meeting of the Association for Computational Linguistics (ACL) 2024. <b><font color='red'>Outstanding Paper Award</font></b>.
 
 * Xingshuo Han, Haozhao Wang, Kangqiao Zhao, Gelei Deng, Yuan Xu, Hangcheng Liu, **Han Qiu**, Tianwei Zhang. "VisionGuard: Secure and Robust Visual Perception of Autonomous Vehicles in Practice." ACM Conference on Computer and Communications Security (CCS) 2024
 
@@ -28,7 +28,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
   
 * Yutong Wu, **Han Qiu**\*, Shangwei Guo, Jiwei Li, Tianwei Zhang. "You Only Query Once: An Efficient Label-Only Membership Inference Attack." International Conference on Learning Representations (ICLR) 2024.
 
-* Xiaobei Yan, **Han Qiu** and Tianwei Zhang. "UniGuard: A Unified Hardware-oriented Threat Detector for FPGA-based AI Accelerators." International Conference on Field-Programmable Logic and Applications (FPL) 2024. 
+* Xiaobei Yan, **Han Qiu** and Tianwei Zhang. "UniGuard: A Unified Hardware-oriented Threat Detector for FPGA-based AI Accelerators." International Conference on Field-Programmable Logic and Applications (FPL) 2024. <b><font color='red'>Best Paper NomineeO</font></b>. 
 
 
 ### 2023

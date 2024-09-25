@@ -28,7 +28,7 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
   
 * Yutong Wu, **Han Qiu**\*, Shangwei Guo, Jiwei Li, Tianwei Zhang. "You Only Query Once: An Efficient Label-Only Membership Inference Attack." International Conference on Learning Representations (ICLR) 2024.
 
-* Xiaobei Yan, **Han Qiu** and Tianwei Zhang. "UniGuard: A Unified Hardware-oriented Threat Detector for FPGA-based AI Accelerators." International Conference on Field-Programmable Logic and Applications (FPL) 2024. <b><font color='red'>Best Paper Nominee</font></b>. 
+* Xiaobei Yan, **Han Qiu**, Tianwei Zhang. "UniGuard: A Unified Hardware-oriented Threat Detector for FPGA-based AI Accelerators." International Conference on Field-Programmable Logic and Applications (FPL) 2024. <b><font color='red'>Best Paper Nominee</font></b>. 
 
 
 ### 2023

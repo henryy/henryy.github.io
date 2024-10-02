@@ -12,6 +12,8 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 * Ziyuan Zhang,  **Han Qiu**\*, Zhang Maosen, Jun Liu, Bin Chen, Tianwei Zhang, Hewu Li. "COSMIC: Compress Satellite Image Efficiently via Diffusion Compensation." Annual Conference on Neural Information Processing Systems (NeurIPS) 2024. 
 
+* Rongwu Xu, Yishuo Cai, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Yan Liu, Tianwei Zhang, Wei Xu, **Han Qiu**\*. "Course-Correction: Safety Alignment Using Synthetic Preferences." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024.
+
 * Rongwu Xu, Zian Zhou, Tianwei Zhang, Zehan Qi, Su Yao, Ke Xu, Wei Xu, **Han Qiu**\*. "Walking in Others' Shoes: How Perspective-Taking Guides Large Language Models in Reducing Toxicity and Bias." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2024.
 
 * Rongwu Xu, Brian S Lin, Shujian Yang, Tianqi Zhang, Weiyan Shi, Tianwei Zhang, Zhixuan Fang, Wei Xu, **Han Qiu**\*. "The Earth is Flat because...: Investigating LLMs' Belief towards Misinformation via Persuasive Conversation." Annual Meeting of the Association for Computational Linguistics (ACL) 2024. <b><font color='red'>Outstanding Paper Award</font></b>.

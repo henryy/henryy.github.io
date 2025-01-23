@@ -8,6 +8,14 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 \* indicates corresponding author 
 
+### 2025 
+
+* Jianshuo Dong, Ziyuan Zhang, Qingjie Zhang, **Han Qiu**\*, Tianwei Zhang, Hao Wang, Hewu Li, Qi Li, Chao Zhang, Ke Xu. "An Engorgio Prompt Makes Large Language Model Babble on." International Conference on Learning Representations (ICLR) 2025. 
+
+* Qingjie Zhang, **Han Qiu**\*, Di Wang, Yiming Li, Tianwei Zhang, Wenyu Zhu, Haiqin Weng, Liu Yan, Chao Zhang. "A Benchmark for Semantic Sensitive Information in LLMs Outputs." International Conference on Learning Representations (ICLR) 2025. 
+
+* Runyi Hu, Jie Zhang, Yiming Li, Jiwei Li, Qing Guo, **Han Qiu**, Tianwei Zhang. "VideoShield: Regulating Diffusion-based Video Generation Models via Watermarking." International Conference on Learning Representations (ICLR) 2025.
+
 ### 2024
 
 * Ziyuan Zhang,  **Han Qiu**\*, Zhang Maosen, Jun Liu, Bin Chen, Tianwei Zhang, Hewu Li. "COSMIC: Compress Satellite Image Efficiently via Diffusion Compensation." Annual Conference on Neural Information Processing Systems (NeurIPS) 2024. 

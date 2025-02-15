@@ -10,6 +10,10 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2025 
 
+* Longnv Xu, Meiqi Wang, **Han Qiu**\*, Jun Liu, Yuanjie Li and Hewu Li. "REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System." ACM Design Automation Conference (DAC) 2025. 
+
+* Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Bin Chen and Chao Zhang. "DCDiff: Enhancing JPEG Compression via Diffusion-based DC Coefficients Estimation." ACM Design Automation Conference (DAC) 2025.
+
 * Jianshuo Dong, Ziyuan Zhang, Qingjie Zhang, **Han Qiu**\*, Tianwei Zhang, Hao Wang, Hewu Li, Qi Li, Chao Zhang, Ke Xu. "An Engorgio Prompt Makes Large Language Model Babble on." International Conference on Learning Representations (ICLR) 2025. 
 
 * Qingjie Zhang, **Han Qiu**\*, Di Wang, Yiming Li, Tianwei Zhang, Wenyu Zhu, Haiqin Weng, Yan Liu, Chao Zhang. "A Benchmark for Semantic Sensitive Information in LLMs Outputs." International Conference on Learning Representations (ICLR) 2025. 

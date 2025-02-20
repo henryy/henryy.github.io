@@ -10,7 +10,7 @@ redirect_from:
 I am an associate professor at [Institute for Network Sciences and Cyberspace](http://www.insc.tsinghua.edu.cn/) 
 ,[Tsinghua University](https://www.tsinghua.edu.cn/) in Beijing, China. 
 
-I'm always looking for highly motivated Ph.D., master, undergraduate students, interns interested in AI or security. Besides, experience of **FPGA programming** is a strong plus. Feel free to send me an email with your CV if you are interested.
+I'm always looking for highly motivated Ph.D., master, undergraduate students, interns interested in exploring **AI security and safety issues**. Feel free to send me an email with your CV if you are interested.
 
 Bio
 ------
@@ -18,5 +18,6 @@ Before joining Tsinghua University, I worked as a research engineer at [LINCS La
 
 Research Interests
 ------
-My research interests focus on solving the security issues in computing systems. Currently, I am mainly working on AI security topics including edge computing security issues on FPGA devices and novel security or safety issues in large language models. 
+My research interests focus on exploring, understanding, and mitigating the security or safety issues in various AI models. Besides, I am also interested in studying two topics includng inference acceleration and image compression. 
+
 

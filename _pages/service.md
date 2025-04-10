@@ -10,6 +10,7 @@ redirect_from:
 
 Conference Services
 ======
+* **Area Chair**, Neural Information Processing Systems (NeurIPS) 2025
 * **Area Chair**, Association for Computational Linguistics (ACL) 2025
 * **Area Chair**, International Conference on Learning Representations (ICLR) 2025
 * **PC Co-Chair**, Springer, International Conference on Knowledge Science, Engineering and Management (KSEM) 2021

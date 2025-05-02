@@ -10,6 +10,8 @@ A complete list can be found in my [[Google Scholar]](https://scholar.google.fr/
 
 ### 2025 
 
+* Yutong Wu, Jie Zhang, Yiming Li, Chao Zhang, Qing Guo, **Han Qiu**, Nils Lukas, Tianwei Zhang. "Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems." International Conference on Machine Learning (ICML) 2025.
+
 * Longnv Xu, Meiqi Wang, **Han Qiu**\*, Jun Liu, Yuanjie Li and Hewu Li. "REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System." ACM Design Automation Conference (DAC) 2025. 
 
 * Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Bin Chen and Chao Zhang. "DCDiff: Enhancing JPEG Compression via Diffusion-based DC Coefficients Estimation." ACM Design Automation Conference (DAC) 2025.

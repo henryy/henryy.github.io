@@ -10,6 +10,10 @@ author_profile: true
 
 ### 2025 
 
+*Qingjie Zhang, Di Wang, Haoting Qian, Yiming Li, Tianwei Zhang, Minlie Huang, **Han Qiu**\*. "Understanding the Dark Side of LLMs’ Intrinsic Self-Correction." Annual Meeting of the Association for Computational Linguistics (ACL) 2025 Main.
+
+*Shujian Yang, Shiyao Cui, Haicheng Wang, Tianwei Zhang, Minlie Huang, Jialiang LU, **Han Qiu**\*. "Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings." Annual Meeting of the Association for Computational Linguistics (ACL) 2025 Findings.
+
 * Yutong Wu, Jie Zhang, Yiming Li, Chao Zhang, Qing Guo, **Han Qiu**, Nils Lukas, Tianwei Zhang. "Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems." International Conference on Machine Learning (ICML) 2025.
 
 * Longnv Xu, Meiqi Wang, **Han Qiu**\*, Jun Liu, Yuanjie Li and Hewu Li. "REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System." ACM Design Automation Conference (DAC) 2025. 

@@ -16,9 +16,9 @@ author_profile: true
 
 * Yutong Wu, Jie Zhang, Yiming Li, Chao Zhang, Qing Guo, **Han Qiu**, Nils Lukas, Tianwei Zhang. "Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems." International Conference on Machine Learning (ICML) 2025.
 
-* Longnv Xu, Meiqi Wang, **Han Qiu**\*, Jun Liu, Yuanjie Li and Hewu Li. "REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System." ACM Design Automation Conference (DAC) 2025. 
+* Longnv Xu, Meiqi Wang, **Han Qiu**\*, Jun Liu, Yuanjie Li, Hewu Li. "REMU: Memory-aware Radiation Emulation via Dual Addressing for In-orbit Deep Learning System." ACM Design Automation Conference (DAC) 2025. 
 
-* Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Bin Chen and Chao Zhang. "DCDiff: Enhancing JPEG Compression via Diffusion-based DC Coefficients Estimation." ACM Design Automation Conference (DAC) 2025.
+* Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Bin Chen, Chao Zhang. "DCDiff: Enhancing JPEG Compression via Diffusion-based DC Coefficients Estimation." ACM Design Automation Conference (DAC) 2025.
 
 * Jianshuo Dong, Ziyuan Zhang, Qingjie Zhang, **Han Qiu**\*, Tianwei Zhang, Hao Wang, Hewu Li, Qi Li, Chao Zhang, Ke Xu. "An Engorgio Prompt Makes Large Language Model Babble on." International Conference on Learning Representations (ICLR) 2025. 
 

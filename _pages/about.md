@@ -14,7 +14,7 @@ I'm always looking for highly motivated Ph.D., master, undergraduate students, i
 
 Bio
 ------
-Before joining Tsinghua University, I worked as a research engineer at [LINCS Lab](https://www.lincs.fr/),  and co-affiliated with [Telecom Paris](https://www.telecom-paris.fr/en/home) in Paris, France from 2020 to 2021. I used to work as a PostDoc at the Department of Network and Computer Science Department (INFRES), [Telecom Paris](https://www.telecom-paris.fr/en/home) in Paris, France from 2017 to 2019. Prior to that, I received my Ph.D. in [Telecom Paris](https://www.telecom-paris.fr/en/home) (previously known as "Telecom-ParisTech" before 2019) in France at 2017. I obtained my M.Eng degree from [Insitute Eurecom](https://www.eurecom.fr/en) in France, and a Bachelor's degree in Communication Engineering at [Beijing University of Posts and Telecommunications (BUPT)](https://english.bupt.edu.cn/) in China. 
+Before joining Tsinghua University, I worked as a research engineer at [LINCS Lab](https://www.lincs.fr/),  and co-affiliated with [Telecom Paris](https://www.telecom-paris.fr/en/home) in Paris, France from 2020 to 2021. I used to work as a PostDoc at the Department of Network and Computer Science Department (INFRES), [Telecom Paris](https://www.telecom-paris.fr/en/home) in Paris, France from 2017 to 2019. Prior to that, I received my Ph.D. in [Telecom Paris](https://www.telecom-paris.fr/en/home) (previously known as "Telecom-ParisTech" before 2019) in France at 2017. I obtained my M.Eng degree from [Eurecom](https://www.eurecom.fr/en) in France, and a Bachelor's degree in Communication Engineering at [Beijing University of Posts and Telecommunications (BUPT)](https://english.bupt.edu.cn/) in China. 
 
 Research Interests
 ------

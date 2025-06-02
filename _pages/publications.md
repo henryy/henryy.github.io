@@ -20,7 +20,7 @@ author_profile: true
 
 * Ziyuan Zhang, **Han Qiu**\*, Tianwei Zhang, Bin Chen, Chao Zhang. "DCDiff: Enhancing JPEG Compression via Diffusion-based DC Coefficients Estimation." ACM Design Automation Conference (DAC) 2025.
 
-* Jianshuo Dong, Ziyuan Zhang, Qingjie Zhang, **Han Qiu**\*, Tianwei Zhang, Hao Wang, Hewu Li, Qi Li, Chao Zhang, Ke Xu. "An Engorgio Prompt Makes Large Language Model Babble on." International Conference on Learning Representations (ICLR) 2025. 
+* Jianshuo Dong, Ziyuan Zhang, Qingjie Zhang, Tianwei Zhang, Hao Wang, Hewu Li, Qi Li, Chao Zhang, Ke Xu, **Han Qiu**\*. "An Engorgio Prompt Makes Large Language Model Babble on." International Conference on Learning Representations (ICLR) 2025. 
 
 * Qingjie Zhang, **Han Qiu**\*, Di Wang, Yiming Li, Tianwei Zhang, Wenyu Zhu, Haiqin Weng, Yan Liu, Chao Zhang. "A Benchmark for Semantic Sensitive Information in LLMs Outputs." International Conference on Learning Representations (ICLR) 2025. 
 

@@ -18,11 +18,13 @@ redirect_from:
 **Master Students.**
 
 * Maosen Zhang, 08/2024 -
+* Di Wang, 08/2025 -
 
 **Co-supervised Students.**
-* [Lijun Chi](https://scholar.google.com/citations?user=PzveJhAAAAAJ), 11/2021 - 02/2025
-* [Rongwu Xu](https://rongwuxu.site/), 01/2023 - 07/2024
 * Longnv Xu, 09/2023 -
+* Shujian Yang, 05/2023 -
+* [Rongwu Xu](https://rongwuxu.com/), 01/2023 - 07/2024
+* [Lijun Chi](https://scholar.google.com/citations?user=PzveJhAAAAAJ), 11/2021 - 02/2025
 * [Jialai Wang](https://netsec.ccert.edu.cn/people/wjl19), 01/2022 - 01/2023
 
 **I also have the pleasure to work with the following brilliant students.**

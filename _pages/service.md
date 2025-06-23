@@ -11,10 +11,9 @@ redirect_from:
 Conference Services
 ======
 * **Area Chair**, Neural Information Processing Systems (NeurIPS) 2025
+* **Area Chair**, Empirical Methods in Natural Language Processing (EMNLP) 2025
 * **Area Chair**, Association for Computational Linguistics (ACL) 2025
 * **Area Chair**, International Conference on Learning Representations (ICLR) 2025
-* **PC Co-Chair**, Springer, International Conference on Knowledge Science, Engineering and Management (KSEM) 2021
-* **PC Chair**, IEEE, International Symposium on Parallel and Distributed Processing with Applications (ISPA) 2021
 
 Technical Program Committee
 ======
@@ -24,8 +23,6 @@ Technical Program Committee
 * ACM, SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2023
 * ACM, International Conference on Multimedia (MM) 2021 
 * IEEE, International Conference on Computer Communications (INFOCOM) 2021 
-* Springer, International Conference on Knowledge Science, Engineering and Management (KSEM) 2022, 2023
-* Springer, International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP) 2020 
 
 Journal Reviewer
 ======

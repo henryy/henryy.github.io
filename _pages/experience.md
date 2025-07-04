@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* B.Eng. in Degree on Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China, 2011
+* B.Eng. in Communication Engineering, Beijing University of Posts and Telecommunications, Beijing, China, 2011
 * M.S. in Network and Security, Institute Eurecom (Telecom-ParisTech), Sophia Antipolis, France, 2013
 * Ph.D in Computer Networks, Telecom-ParisTech, Paris, France, 2017
 

@@ -17,10 +17,10 @@ Education
 Working experience
 ======
 * Associate Professor at Tsinghua University, Beijing, China, 2024/07 – present 
-  * Working on Secure and Intelligent Computing Systems.
+  * Working on AI Security.
 
 * Assistant Professor at Tsinghua University, Beijing, China, 2021/03 – 2024/06
-  * Working on Secure and Intelligent Computing Systems.
+  * Working on AI Security.
 
 * Research Engineer at LINCS Lab, Paris, France, 2020/01 – 2021/02 
   * Working on Secure Intelligence Systems.

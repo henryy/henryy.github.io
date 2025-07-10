@@ -10,11 +10,13 @@ author_profile: true
 
 ### 2025 
 
+* Shiyao Cui, Qinglin Zhang, Xuan Ouyang, Renmiao Chen, Zhexin Zhang, Yida Lu, Hongning Wang, **Han Qiu**, Minlie Huang. "ShieldVLM: Safeguarding the Multimodal Implicit Toxicity via Deliberative Reasoning with LVLMs." ACM International Conference on Multimedia (MM) 2025.
+
+* Meiqi Wang and **Han Qiu**\*. "VISO: Accelerating In-orbit Object Detection with Language-Guided Mask Learning and Sparse Inference." IEEE International Conference on Computer Vision (ICCV) 2025.
+  
 * Qingjie Zhang, Di Wang, Haoting Qian, Yiming Li, Tianwei Zhang, Minlie Huang, **Han Qiu**\*. "Understanding the Dark Side of LLMs’ Intrinsic Self-Correction." Annual Meeting of the Association for Computational Linguistics (ACL) 2025 Main.
 
 * Shujian Yang, Shiyao Cui, Haicheng Wang, Tianwei Zhang, Minlie Huang, Jialiang Lu, **Han Qiu**\*. "Exploring Multimodal Challenges in Toxic Chinese Detection: Taxonomy, Benchmark, and Findings." Annual Meeting of the Association for Computational Linguistics (ACL) 2025 Findings.
-
-* Meiqi Wang and **Han Qiu**\*. "VISO: Accelerating In-orbit Object Detection with Language-Guided Mask Learning and Sparse Inference." IEEE International Conference on Computer Vision (ICCV) 2025.
 
 * Yutong Wu, Jie Zhang, Yiming Li, Chao Zhang, Qing Guo, **Han Qiu**, Nils Lukas, Tianwei Zhang. "Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems." International Conference on Machine Learning (ICML) 2025.
 

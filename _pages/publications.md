@@ -10,7 +10,7 @@ author_profile: true
 
 ### 2025 
 
-* Shiyao Cui, Qinglin Zhang, Xuan Ouyang, Renmiao Chen, Zhexin Zhang, Yida Lu, Hongning Wang, **Han Qiu**, Minlie Huang. "ShieldVLM: Safeguarding the Multimodal Implicit Toxicity via Deliberative Reasoning with LVLMs." ACM International Conference on Multimedia (MM) 2025.
+* Shiyao Cui, Qinglin Zhang, Xuan Ouyang, Renmiao Chen, Zhexin Zhang, Yida Lu, Hongning Wang, **Han Qiu**\*, Minlie Huang. "ShieldVLM: Safeguarding the Multimodal Implicit Toxicity via Deliberative Reasoning with LVLMs." ACM International Conference on Multimedia (MM) 2025.
 
 * Meiqi Wang and **Han Qiu**\*. "VISO: Accelerating In-orbit Object Detection with Language-Guided Mask Learning and Sparse Inference." IEEE International Conference on Computer Vision (ICCV) 2025.
   

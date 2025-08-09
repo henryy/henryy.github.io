@@ -18,7 +18,7 @@ Conference Services
 Technical Program Committee
 ======
 * Network and Distributed System Security (NDSS) Symposium 2025, 2026
-* USENIX, USENIX Security Symposium 2024
+* USENIX, USENIX Security Symposium 2024, 2026
 * ACM, ASIA Conference on Computer and Communications Security (ASIACCS) 2024
 * ACM, SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2023
 * ACM, International Conference on Multimedia (MM) 2021 

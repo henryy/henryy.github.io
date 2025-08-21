@@ -10,11 +10,11 @@ author_profile: true
 
 ### 2025 
 
-* Qingjie Zhang, Di Wang, Haoting Qian, Liu Yan, Tianwei Zhang, Ke Xu, Qi Li, Minlie Huang, Hewu Li, **Han Qiu**\*. "Speculating LLMs' Chinese Training Data Pollution from Their Tokens." The Conference on Empirical Methods in Natural Language Processing 2025.
+* Qingjie Zhang, Di Wang, Haoting Qian, Liu Yan, Tianwei Zhang, Ke Xu, Qi Li, Minlie Huang, Hewu Li, **Han Qiu**\*. "Speculating LLMs' Chinese Training Data Pollution from Their Tokens." The Conference on Empirical Methods in Natural Language Processing 2025 Main.
 
-* Jianshuo Dong, Yutong Zhang, Liu Yan, Zhenyu Zhong, Tao Wei, Tianwei Zhang, Ke Xu, Minlie Huang, Chao Zhang, **Han Qiu**\*. "I’ve Decided to Leak: Probing Internals Behind Prompt Leakage Intents" The Conference on Empirical Methods in Natural Language Processing 2025.
+* Jianshuo Dong, Yutong Zhang, Liu Yan, Zhenyu Zhong, Tao Wei, Tianwei Zhang, Ke Xu, Minlie Huang, Chao Zhang, **Han Qiu**\*. "I’ve Decided to Leak: Probing Internals Behind Prompt Leakage Intents" The Conference on Empirical Methods in Natural Language Processing 2025 Main.
 
-* Cheng Wang, Gelei Deng, XIANGLIN YANG, **Han Qiu**, Tianwei Zhang. "When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models." The Conference on Empirical Methods in Natural Language Processing 2025.
+* Cheng Wang, Gelei Deng, XIANGLIN YANG, **Han Qiu**, Tianwei Zhang. "When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models." The Conference on Empirical Methods in Natural Language Processing 2025 Main.
 
 * Shiyao Cui, Qinglin Zhang, Xuan Ouyang, Renmiao Chen, Zhexin Zhang, Yida Lu, Hongning Wang, **Han Qiu**\*, Minlie Huang. "ShieldVLM: Safeguarding the Multimodal Implicit Toxicity via Deliberative Reasoning with LVLMs." ACM International Conference on Multimedia (MM) 2025.
 

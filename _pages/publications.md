@@ -14,7 +14,7 @@ author_profile: true
 
 * Jianshuo Dong, Yutong Zhang, Liu Yan, Zhenyu Zhong, Tao Wei, Tianwei Zhang, Ke Xu, Minlie Huang, Chao Zhang, **Han Qiu**\*. "I’ve Decided to Leak: Probing Internals Behind Prompt Leakage Intents" The Conference on Empirical Methods in Natural Language Processing 2025 Main.
 
-* Cheng Wang, Gelei Deng, XIANGLIN YANG, **Han Qiu**, Tianwei Zhang. "When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models." The Conference on Empirical Methods in Natural Language Processing 2025 Main.
+* Cheng Wang, Gelei Deng, Xianglin Yang, **Han Qiu**, Tianwei Zhang. "When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models." The Conference on Empirical Methods in Natural Language Processing 2025 Main.
 
 * Shiyao Cui, Qinglin Zhang, Xuan Ouyang, Renmiao Chen, Zhexin Zhang, Yida Lu, Hongning Wang, **Han Qiu**\*, Minlie Huang. "ShieldVLM: Safeguarding the Multimodal Implicit Toxicity via Deliberative Reasoning with LVLMs." ACM International Conference on Multimedia (MM) 2025.
 

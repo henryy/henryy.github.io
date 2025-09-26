@@ -10,6 +10,10 @@ author_profile: true
 
 ### 2025 
 
+* Runyi Hu, Jie Zhang, Shiqian Zhao, Nils Lukas, Jiwei Li, Qing Guo, **Han Qiu**, Tianwei Zhang. "Mask Image Watermarking." Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
+
+* Boheng Li, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, **Han Qiu**, Zhan Qin, Tianwei Zhang. "DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling." IEEE Symposium on Security and Privacy (Oakland) 2024. 
+
 * Qingjie Zhang, Di Wang, Haoting Qian, Liu Yan, Tianwei Zhang, Ke Xu, Qi Li, Minlie Huang, Hewu Li, **Han Qiu**\*. "Speculating LLMs' Chinese Training Data Pollution from Their Tokens." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main.
 
 * Jianshuo Dong, Yutong Zhang, Liu Yan, Zhenyu Zhong, Tao Wei, Tianwei Zhang, Ke Xu, Minlie Huang, Chao Zhang, **Han Qiu**\*. "I’ve Decided to Leak: Probing Internals Behind Prompt Leakage Intents." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main.

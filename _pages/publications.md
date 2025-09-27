@@ -16,7 +16,7 @@ author_profile: true
 
 * Qingjie Zhang, Di Wang, Haoting Qian, Liu Yan, Tianwei Zhang, Ke Xu, Qi Li, Minlie Huang, Hewu Li, **Han Qiu**\*. "Speculating LLMs' Chinese Training Data Pollution from Their Tokens." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main.
 
-* Jianshuo Dong, Yutong Zhang, Liu Yan, Zhenyu Zhong, Tao Wei, Tianwei Zhang, Ke Xu, Minlie Huang, Chao Zhang, **Han Qiu**\*. "I’ve Decided to Leak: Probing Internals Behind Prompt Leakage Intents." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main. <b><font color='red'>Oral</font></b>
+* Jianshuo Dong, Yutong Zhang, Liu Yan, Zhenyu Zhong, Tao Wei, Tianwei Zhang, Ke Xu, Minlie Huang, Chao Zhang, **Han Qiu**\*. "I’ve Decided to Leak: Probing Internals Behind Prompt Leakage Intents." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main. <b><font color='red'>Oral presentation</font></b>
 
 * Cheng Wang, Gelei Deng, Xianglin Yang, **Han Qiu**, Tianwei Zhang. "When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main.
 
@@ -122,7 +122,7 @@ author_profile: true
 
 * **Han Qiu**, Zeng Yi, Shangwei Guo, Tianwei Zhang, Meikang Qiu, Bhavani Thuraisingham. "DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation." ACM AsiaCCS 2021. [[Paper]](https://arxiv.org/pdf/2012.07006)[[Code]](https://github.com/YiZeng623/DeepSweep)
 
-* Wei Gao, Shangwei Guo, Tianwei Zhang, **Han Qiu**, Yonggang Wen, Yang Liu. "Privacy-preserving Collaborative Learning with Automatic Transformation Search." IEEE CVPR 2021, oral presentation. [[Paper]](https://arxiv.org/pdf/2011.12505)[[Code]](https://github.com/)
+* Wei Gao, Shangwei Guo, Tianwei Zhang, **Han Qiu**, Yonggang Wen, Yang Liu. "Privacy-preserving Collaborative Learning with Automatic Transformation Search." IEEE CVPR 2021. <b><font color='red'>Oral presentation</font></b>. [[Paper]](https://arxiv.org/pdf/2011.12505)[[Code]](https://github.com/)
 
 ### 2020
 

@@ -10,10 +10,10 @@ redirect_from:
 
 Conference Services
 ======
+* **Area Chair**, International Conference on Learning Representations (ICLR) 2025, 2026
 * **Area Chair**, Neural Information Processing Systems (NeurIPS) 2025
 * **Area Chair**, Empirical Methods in Natural Language Processing (EMNLP) 2025
 * **Area Chair**, Association for Computational Linguistics (ACL) 2025
-* **Area Chair**, International Conference on Learning Representations (ICLR) 2025, 2026
 
 Technical Program Committee
 ======

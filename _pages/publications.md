@@ -10,6 +10,8 @@ author_profile: true
 
 ### 2025 
 
+* Jie Zhang, Ting Xu, Gelei Deng, Runyi Hu, **Han Qiu**, Tianwei Zhang, Qing Guo, Ivor Tsang. "Visible Yet Unreadable: A Systematic Blind Spot of Vision Language Models Across Writing Systems." Open Conference of AI Agents for Science (Agents4Science) 2025
+
 * Runyi Hu, Jie Zhang, Shiqian Zhao, Nils Lukas, Jiwei Li, Qing Guo, **Han Qiu**, Tianwei Zhang. "Mask Image Watermarking." Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
 
 * Boheng Li, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, **Han Qiu**, Zhan Qin, Tianwei Zhang. "DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling." IEEE Symposium on Security and Privacy (Oakland) 2024. 

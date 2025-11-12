@@ -10,6 +10,8 @@ author_profile: true
 
 ### 2025 
 
+* Shiyao Cui, Xijia Feng, Yingkang Wang, Junxiao Yang, Zhexin Zhang, Biplab Sikdar, Hongning Wang, **Han Qiu**\*, Minlie Huang. "When Smiley Turns Hostile: Interpreting How Emojis Trigger LLMs' Toxicity." AAAI Conference on Artificial Intelligence (AAAI) 2026. <b><font color='red'>Oral presentation</font></b>
+
 * Jie Zhang, Ting Xu, Gelei Deng, Runyi Hu, **Han Qiu**, Tianwei Zhang, Qing Guo, Ivor Tsang. "Visible Yet Unreadable: A Systematic Blind Spot of Vision Language Models Across Writing Systems." Open Conference of AI Agents for Science (Agents4Science) 2025
 
 * Runyi Hu, Jie Zhang, Shiqian Zhao, Nils Lukas, Jiwei Li, Qing Guo, **Han Qiu**, Tianwei Zhang. "Mask Image Watermarking." Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
@@ -22,7 +24,7 @@ author_profile: true
 
 * Cheng Wang, Gelei Deng, Xianglin Yang, **Han Qiu**, Tianwei Zhang. "When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main.
 
-* Shiyao Cui, Qinglin Zhang, Xuan Ouyang, Renmiao Chen, Zhexin Zhang, Yida Lu, Hongning Wang, **Han Qiu**\*, Minlie Huang. "ShieldVLM: Safeguarding the Multimodal Implicit Toxicity via Deliberative Reasoning with LVLMs." ACM International Conference on Multimedia (MM) 2025.
+* Shiyao Cui, Qinglin Zhang, Xuan Ouyang, Renmiao Chen, Zhexin Zhang, Yida Lu, Hongning Wang, **Han Qiu**\*, Minlie Huang. "ShieldVLM: Safeguarding the Multimodal Implicit Toxicity via Deliberative Reasoning with LVLMs." ACM International Conference on Multimedia (MM) 2025. <b><font color='red'>Oral presentation</font></b>
 
 * Meiqi Wang and **Han Qiu**\*. "VISO: Accelerating In-orbit Object Detection with Language-Guided Mask Learning and Sparse Inference." IEEE International Conference on Computer Vision (ICCV) 2025.
   

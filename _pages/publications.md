@@ -12,15 +12,15 @@ author_profile: true
 
 * Shiyao Cui, Xijia Feng, Yingkang Wang, Junxiao Yang, Zhexin Zhang, Biplab Sikdar, Hongning Wang, **Han Qiu**\*, Minlie Huang. "When Smiley Turns Hostile: Interpreting How Emojis Trigger LLMs' Toxicity." AAAI Conference on Artificial Intelligence (AAAI) 2026. <b><font color='red'>Oral presentation</font></b>
 
+* Boheng Li, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, **Han Qiu**, Zhan Qin, Tianwei Zhang. "DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling." IEEE Symposium on Security and Privacy (Oakland) 2026. 
+
 * Jie Zhang, Ting Xu, Gelei Deng, Runyi Hu, **Han Qiu**, Tianwei Zhang, Qing Guo, Ivor Tsang. "Visible Yet Unreadable: A Systematic Blind Spot of Vision Language Models Across Writing Systems." Open Conference of AI Agents for Science (Agents4Science) 2025
 
 * Runyi Hu, Jie Zhang, Shiqian Zhao, Nils Lukas, Jiwei Li, Qing Guo, **Han Qiu**, Tianwei Zhang. "Mask Image Watermarking." Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
 
-* Boheng Li, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, **Han Qiu**, Zhan Qin, Tianwei Zhang. "DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling." IEEE Symposium on Security and Privacy (Oakland) 2024. 
+* Qingjie Zhang, Di Wang, Haoting Qian, Yan Liu, Tianwei Zhang, Ke Xu, Qi Li, Minlie Huang, Hewu Li, **Han Qiu**\*. "Speculating LLMs' Chinese Training Data Pollution from Their Tokens." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main.
 
-* Qingjie Zhang, Di Wang, Haoting Qian, Liu Yan, Tianwei Zhang, Ke Xu, Qi Li, Minlie Huang, Hewu Li, **Han Qiu**\*. "Speculating LLMs' Chinese Training Data Pollution from Their Tokens." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main.
-
-* Jianshuo Dong, Yutong Zhang, Liu Yan, Zhenyu Zhong, Tao Wei, Tianwei Zhang, Ke Xu, Minlie Huang, Chao Zhang, **Han Qiu**\*. "I’ve Decided to Leak: Probing Internals Behind Prompt Leakage Intents." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main. <b><font color='red'>Oral presentation</font></b>
+* Jianshuo Dong, Yutong Zhang, Yan Liu, Zhenyu Zhong, Tao Wei, Tianwei Zhang, Ke Xu, Minlie Huang, Chao Zhang, **Han Qiu**\*. "I’ve Decided to Leak: Probing Internals Behind Prompt Leakage Intents." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main. <b><font color='red'>Oral presentation</font></b>
 
 * Cheng Wang, Gelei Deng, Xianglin Yang, **Han Qiu**, Tianwei Zhang. "When Audio and Text Disagree: Revealing Text Bias in Large Audio-Language Models." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2025 Main.
 

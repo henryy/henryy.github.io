@@ -8,11 +8,15 @@ author_profile: true
 
 \* indicates corresponding author 
 
-### 2025 
+### 2026
+
+* Ziyuan Zhang, Yichong Xia, Bin Chen, Tianwei Zhang, Hao Wang, **Han Qiu**\*. "Autoregressive-based Progressive Coding for Ultra-Low Bitrate Image Compression." International Conference on Learning Representations (ICLR) 2026. 
 
 * Shiyao Cui, Xijia Feng, Yingkang Wang, Junxiao Yang, Zhexin Zhang, Biplab Sikdar, Hongning Wang, **Han Qiu**\*, Minlie Huang. "When Smiley Turns Hostile: Interpreting How Emojis Trigger LLMs' Toxicity." AAAI Conference on Artificial Intelligence (AAAI) 2026. <b><font color='red'>Oral presentation</font></b>
 
 * Boheng Li, Junjie Wang, Yiming Li, Zhiyang Hu, Leyi Qi, Jianshuo Dong, Run Wang, **Han Qiu**, Zhan Qin, Tianwei Zhang. "DREAM: Scalable Red Teaming for Text-to-Image Generative Systems via Distribution Modeling." IEEE Symposium on Security and Privacy (Oakland) 2026. 
+
+### 2025 
 
 * Jie Zhang, Ting Xu, Gelei Deng, Runyi Hu, **Han Qiu**, Tianwei Zhang, Qing Guo, Ivor Tsang. "Visible Yet Unreadable: A Systematic Blind Spot of Vision Language Models Across Writing Systems." Open Conference of AI Agents for Science (Agents4Science) 2025
 

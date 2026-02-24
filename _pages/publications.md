@@ -10,6 +10,8 @@ author_profile: true
 
 ### 2026
 
+* Ziyuan Zhang, Jun Liu, Hewu Li, Tianwei Zhang, **Han Qiu**\*. "SemCom: Semantic-enhanced On-board Satellite Image Compression at Ultra-low Bitrates." ACM Design Automation Conference (DAC) 2026.
+
 * Ziyuan Zhang, Yichong Xia, Bin Chen, Tianwei Zhang, Hao Wang, **Han Qiu**\*. "Autoregressive-based Progressive Coding for Ultra-Low Bitrate Image Compression." International Conference on Learning Representations (ICLR) 2026. 
 
 * Shiyao Cui, Xijia Feng, Yingkang Wang, Junxiao Yang, Zhexin Zhang, Biplab Sikdar, Hongning Wang, **Han Qiu**\*, Minlie Huang. "When Smiley Turns Hostile: Interpreting How Emojis Trigger LLMs' Toxicity." AAAI Conference on Artificial Intelligence (AAAI) 2026. <b><font color='red'>Oral presentation</font></b>

@@ -10,6 +10,18 @@ author_profile: true
 
 ### 2026
 
+* Jianshuo Dong, Yutong Zhang, Liu Yan, Zhenyu Zhong, Tao Wei, Chao Zhang, **Han Qiu**\*. "Revisiting the Reliability of Language Models in Instruction-Following." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.
+
+* Shiyao Cui, QingLin Zhang, Di Wang, Yida Lu, Zhexin Zhang, Jinhua Gao, Jinglin Yang, Min He, **Han Qiu**, Minlie Huang. "New Terms, New Toxicity: Consensus-based Chinese Neologism Toxicity Detection via Search-Augmented LLMs."Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.
+  
+* Renmiao Chen, Yida Lu, Shiyao Cui, Xuan Ouyang, Victor Shea-Jay Huang, Shumin Zhang, Chengwei Pan, **Han Qiu**, Minlie Huang. "The Side Effects of Being Smart: Safety Risks in MLLMs’ Multi-Image Reasoning." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.
+  
+* Junxiao Yang, Haoran Liu, Jinzhe Tu, Jiale Cheng, Zhexin Zhang, Shiyao Cui, Jiaqi Weng, Jialing Tao, Hui Xue, Hongning Wang, **Han Qiu**, Minlie Huang. "LASA: Language-Agnostic Semantic Alignment at the Semantic Bottleneck for LLM Safety." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.
+  
+* Maosen Zhang, Jianshuo Dong, Lu boting, Li Wenyue, Xiaoping Zhang, Tianwei Zhang, **Han Qiu**\*. "LeakDojo: Decoding the Leakage Threats of RAG Systems." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Findings.
+
+* Axel Delaval, Shujian Yang, Haicheng Wang, **Han Qiu**, Jialiang Lu. "TOXIFRENCH: Benchmarking and Enhancing Language Models via CoT Fine-Tuning for French Toxicity Detection." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Findings.
+
 * Ziyuan Zhang, Jun Liu, Hewu Li, Tianwei Zhang, **Han Qiu**\*. "SemCom: Semantic-enhanced On-board Satellite Image Compression at Ultra-low Bitrates." ACM Design Automation Conference (DAC) 2026.
 
 * Ziyuan Zhang, Yichong Xia, Bin Chen, Tianwei Zhang, Hao Wang, **Han Qiu**\*. "Autoregressive-based Progressive Coding for Ultra-Low Bitrate Image Compression." International Conference on Learning Representations (ICLR) 2026. 

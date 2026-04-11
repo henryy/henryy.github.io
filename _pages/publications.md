@@ -10,7 +10,7 @@ author_profile: true
 
 ### 2026
 
-* Jianshuo Dong, Yutong Zhang, Liu Yan, Zhenyu Zhong, Tao Wei, Chao Zhang, **Han Qiu**\*. "Revisiting the Reliability of Language Models in Instruction-Following." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.
+* Jianshuo Dong, Yutong Zhang, Yan Liu, Zhenyu Zhong, Tao Wei, Chao Zhang, **Han Qiu**\*. "Revisiting the Reliability of Language Models in Instruction-Following." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.
 
 * Shiyao Cui, QingLin Zhang, Di Wang, Yida Lu, Zhexin Zhang, Jinhua Gao, Jinglin Yang, Min He, **Han Qiu**, Minlie Huang. "New Terms, New Toxicity: Consensus-based Chinese Neologism Toxicity Detection via Search-Augmented LLMs."Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.
   
@@ -18,7 +18,7 @@ author_profile: true
   
 * Junxiao Yang, Haoran Liu, Jinzhe Tu, Jiale Cheng, Zhexin Zhang, Shiyao Cui, Jiaqi Weng, Jialing Tao, Hui Xue, Hongning Wang, **Han Qiu**, Minlie Huang. "LASA: Language-Agnostic Semantic Alignment at the Semantic Bottleneck for LLM Safety." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.
   
-* Maosen Zhang, Jianshuo Dong, Lu boting, Li Wenyue, Xiaoping Zhang, Tianwei Zhang, **Han Qiu**\*. "LeakDojo: Decoding the Leakage Threats of RAG Systems." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Findings.
+* Maosen Zhang, Jianshuo Dong, boting Lu, Wenyue Li, Xiaoping Zhang, Tianwei Zhang, **Han Qiu**\*. "LeakDojo: Decoding the Leakage Threats of RAG Systems." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Findings.
 
 * Axel Delaval, Shujian Yang, Haicheng Wang, **Han Qiu**, Jialiang Lu. "TOXIFRENCH: Benchmarking and Enhancing Language Models via CoT Fine-Tuning for French Toxicity Detection." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Findings.
 

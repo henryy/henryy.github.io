@@ -10,6 +10,12 @@ author_profile: true
 
 ### 2026
 
+* Jianshuo Dong, Sheng Guo, Hao Wang, Xun Chen, Zhuotao Liu, Tianwei Zhang, Ke Xu, Minlie Huang, **Han Qiu**\*. "SafeSearch: Automated Red-Teaming of LLM-Based Search Agents." International Conference on Machine Learning (ICML) 2026.
+
+* Haoran Ou, Kangjie Chen, Xingshuo Han, Gelei Deng, Jie Zhang, **Han Qiu**, Tianwei Zhang, Kwok-Yan Lam. "When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models." International Conference on Machine Learning (ICML) 2026.
+
+* Pengcheng Li, Jie Zhang, Tianwei Zhang, **Han Qiu**, Zhang kejun, Weiming Zhang, Nenghai Yu, Wenbo Zhou. "State-Dependent Safety Failures in Multi-Turn Language Model Interaction." International Conference on Machine Learning (ICML) 2026.
+
 * Jianshuo Dong, Yutong Zhang, Yan Liu, Zhenyu Zhong, Tao Wei, Chao Zhang, **Han Qiu**\*. "Revisiting the Reliability of Language Models in Instruction-Following." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.
 
 * Shiyao Cui, QingLin Zhang, Di Wang, Yida Lu, Zhexin Zhang, Jinhua Gao, Jinglin Yang, Min He, **Han Qiu**, Minlie Huang. "New Terms, New Toxicity: Consensus-based Chinese Neologism Toxicity Detection via Search-Augmented LLMs."Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.

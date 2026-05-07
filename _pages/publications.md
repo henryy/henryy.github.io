@@ -14,7 +14,7 @@ author_profile: true
 
 * Haoran Ou, Kangjie Chen, Xingshuo Han, Gelei Deng, Jie Zhang, **Han Qiu**, Tianwei Zhang, Kwok-Yan Lam. "When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models." International Conference on Machine Learning (ICML) 2026.
 
-* Pengcheng Li, Jie Zhang, Tianwei Zhang, **Han Qiu**, Zhang kejun, Weiming Zhang, Nenghai Yu, Wenbo Zhou. "State-Dependent Safety Failures in Multi-Turn Language Model Interaction." International Conference on Machine Learning (ICML) 2026.
+* Pengcheng Li, Jie Zhang, Tianwei Zhang, **Han Qiu**, Kejun Zhang, Weiming Zhang, Nenghai Yu, Wenbo Zhou. "State-Dependent Safety Failures in Multi-Turn Language Model Interaction." International Conference on Machine Learning (ICML) 2026.
 
 * Jianshuo Dong, Yutong Zhang, Yan Liu, Zhenyu Zhong, Tao Wei, Chao Zhang, **Han Qiu**\*. "Revisiting the Reliability of Language Models in Instruction-Following." Annual Meeting of the Association for Computational Linguistics (ACL) 2026 Main.
 

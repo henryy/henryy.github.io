@@ -10,6 +10,18 @@ author_profile: true
 
 ### 2026
 
+* Qingjie Zhang, Ziqi Tang, Jie Zhang, Gelei Deng, Jinfeng Li, YueFeng Chen, Yitong Yang, Hui Xue, Tianwei Zhang, **Han Qiu**\*. "Auditing Chinese Web-scale Corpora via Sampled BPE Token Statistics." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026 Main.
+
+* Qingjie Zhang, Yujia Fu, Yang Wang, Liu Yan, Tao Wei, Ke Xu, Minlie Huang, **Han Qiu**\*. "Stop Before You Fail: Operational Capability Boundaries for Mitigating Unproductive Reasoning in Large Reasoning Models." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026 Main.
+
+* Yutong Zhang, Jianshuo Dong, Peng Xu, Long Wang, Jie Zhang, Tianwei Zhang, Xiaoping Zhang, **Han Qiu**\*. "INTENT-AS-A-TOOL Makes it Easy to Track Agentic Misalignment." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026 Main.
+
+* Yanghao Su, Wenbo Zhou, Tianwei Zhang, **Han Qiu**, Nenghai Yu, Weiming Zhang, Jie Zhang. "The Persona-Switch Backdoor: From Payload Retrieval to Trigger-Gated Persona-State Selection." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026 Main.
+
+* Haoting Qian, Qingjie Zhang, Zhicong Huang, Cheng Hong, **Han Qiu**\*. "Leak-Resistant Unlearning: A New Benchmark for Evaluating Multi-Hop Reasoning Consistency and Recovery Robustness." The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026 Findings.
+
+* Qingjie Zhang, Xingzhang Ren, Zixuan Chen, Jinfeng Li, YueFeng Chen, Yitong Yang, Hui Xue, Dayiheng Liu, **Han Qiu**\*. "Can Released LLM Vocabularies Support Token-Level Estimation of Hidden Corpora?" The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026 Findings.
+
 * Jianshuo Dong, Sheng Guo, Hao Wang, Xun Chen, Zhuotao Liu, Tianwei Zhang, Ke Xu, Minlie Huang, **Han Qiu**\*. "SafeSearch: Automated Red-Teaming of LLM-Based Search Agents." International Conference on Machine Learning (ICML) 2026.
 
 * Haoran Ou, Kangjie Chen, Xingshuo Han, Gelei Deng, Jie Zhang, **Han Qiu**, Tianwei Zhang, Kwok-Yan Lam. "When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models." International Conference on Machine Learning (ICML) 2026.

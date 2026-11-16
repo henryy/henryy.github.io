@@ -22,6 +22,8 @@ author_profile: true
 
 * Qingjie Zhang, Xingzhang Ren, Zixuan Chen, Jinfeng Li, YueFeng Chen, Yitong Yang, Hui Xue, Dayiheng Liu, **Han Qiu**\*. "Can Released LLM Vocabularies Support Token-Level Estimation of Hidden Corpora?" The Conference on Empirical Methods in Natural Language Processing (EMNLP) 2026 Findings.
 
+* Haoran Ou, Gelei Deng, Xingshuo Han, Jie Zhang, **Han Qiu**, Shangwei Guo, Tianwei Zhang, Kwok-Yan Lam. "Beyond Retrieval: Improving Evidence Quality for LLM-based Multimodal Fact-Checking." ACM International Conference on Multimedia (MM) 2026.
+
 * Jianshuo Dong, Sheng Guo, Hao Wang, Xun Chen, Zhuotao Liu, Tianwei Zhang, Ke Xu, Minlie Huang, **Han Qiu**\*. "SafeSearch: Automated Red-Teaming of LLM-Based Search Agents." International Conference on Machine Learning (ICML) 2026.
 
 * Haoran Ou, Kangjie Chen, Xingshuo Han, Gelei Deng, Jie Zhang, **Han Qiu**, Tianwei Zhang, Kwok-Yan Lam. "When Search Goes Wrong: Red-Teaming Web-Augmented Large Language Models." International Conference on Machine Learning (ICML) 2026.
